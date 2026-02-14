@@ -1,0 +1,331 @@
+Housing and Zoning Update — Q1 2024
+Overview
+Q1 2024 zoning updates targeted transit-adjacent corridors and low-density zones. This update lists
+recent zoning reclassifications and new unit counts from construction permits issued between January
+1, 2024 and March 31, 2024. Total permits issued in Q1 2024: 125+ units (Q1 2023: 153 units, change:
+-18.3%). This decline reflects market correction after record growth in 2023. However, mixed-use and
+conversion projects show strong growth (+17.6% and +66.7% respectively), indicating strategic
+densification trends. Average permit processing time: 28 days (2023 avg: 38 days, improvement:
+-26.3%).
+Historical Permit Activity Trends (Q1 2020 - Q1 2024)
+Quarterly Q1 Permit Comparison (January-March):
+Q1 2020: 98 units approved (baseline quarter)
+Q1 2021: 112 units approved (growth: +14.3% YoY)
+Q1 2022: 128 units approved (growth: +14.3% YoY)
+Q1 2023: 153 units approved (growth: +19.5% YoY, peak quarter)
+Q1 2024: 125+ units approved (change: -18.3% YoY, market correction)
+5-year Q1 CAGR: +6.3%
+Investment Trends (Q1 Comparison):
+Q1 2020: $9.2M total investment ($93,878/unit)
+Q1 2021: $11.1M total investment ($99,107/unit, +5.6% cost increase)
+Q1 2022: $13.8M total investment ($107,813/unit, +8.8% cost increase)
+Q1 2023: $17.2M total investment ($112,418/unit, +4.3% cost increase)
+Q1 2024: $16.8M total investment ($134,400/unit, +19.6% cost increase)
+Cost per unit acceleration: 5-year average +9.3% annually
+Processing Time Evolution:
+Q1 2020: 58 days average (baseline)
+Q1 2021: 52 days average (improvement: -10.3%)
+Q1 2022: 45 days average (improvement: -13.5%)
+Q1 2023: 38 days average (improvement: -15.6%)
+Q1 2024: 28 days average (improvement: -26.3%)
+Total efficiency gain: -51.7% since 2020
+Zoning Type Distribution Trends (Q1 Each Year):
+Mixed-Use permits:
+2020: 45 units fi 2021: 52 units fi 2022: 62 units fi 2023: 68 units fi 2024: 80 units
+5-year growth: +77.8%, CAGR: +15.5%
+Pure Residential permits:
+2020: 38 units fi 2021: 42 units fi 2022: 48 units fi 2023: 55 units fi 2024: 42 units
+2024 decline: -23.6% (first decline in 5 years)
+Commercial-to-Residential conversions:
+2020: 8 units fi 2021: 11 units fi 2022: 12 units fi 2023: 18 units fi 2024: 30 units
+5-year growth: +275%, CAGR: +39.4% (fastest-growing category)
+Heritage designations:
+2020: 7 units fi 2021: 7 units fi 2022: 6 units fi 2023: 12 units fi 2024: 5 units
+High variability: No clear trend, policy-dependent
+Department Contacts
+Zoning & Planning Department:
+Director: Amanda Chen
+Email: a.chen@zoning.city.gov
+Office Phone: (403) 555-0891
+Direct: 403.555.0892
+Fax: +1-403-555-0893
+Permit Processing:
+Coordinator: David Martinez
+Email: d_martinez@permits.gov
+Phone: 403-555-0945
+After Hours: 1-800-PERMITS (1-800-737-6487)
+Heritage Preservation:
+Officer: Elizabeth Taylor
+Email: elizabeth.taylor@heritage.city.gov
+Office: (403) 555-1023
+Mobile: +1 403 555 1024
+Public Inquiries:
+General Line: 403-555-INFO (403-555-4636)
+Email: housing.info@city.gov
+Online Portal: permits.city.gov
+Table 1: New Units by District (Q1 2024 vs Q1 2023)
+District_ID Zoning_Type Units_Q1_2024 Units_Q1_2023 YoY_Change_% Permit_Date
+D01 Mixed-Use 60 52 +15.4% 2024-02-15
+D02 ResfiMixed-Use 20 15 +33.3% 15-Feb-2024
+D03 Residential NULL 25 N/A 2024/03/01
+D04 ComfiResidential 30 18 +66.7% 2024-01-30
+D05 Residential 10 30 -66.7% 2024-03-05
+D06 Heritage 5 12 -58.3% 2024-03-10
+Figure 1: Permit Processing Efficiency Trends
+
+Detailed Permit Analysis with Performance Metrics
+The following section provides comprehensive details for each permit issued in Q1 2024, including
+application numbers, developer information, project specifications, and comparative performance
+metrics versus Q1 2023 baselines.
+PERMIT #2024-DT-00145 - Downtown Mixed-Use Development
+District: D01 - Downtown
+Application ID: APP-2024-00012
+Developer: Urban Development Corp.
+Contact: John Wilson (j.wilson@urbandevelopment.com)
+Phone: (403) 555-2234, Cell: 403.555.2235
+Units Approved: 60 residential units (Q1 2023 similar project: 52 units, +15.4%)
+Filed: 2024-01-12, Approved: 2024-02-15
+Processing Time: 34 days (Q1 2023 avg: 38 days, improvement: -10.5%)
+Estimated Completion: Q4 2024
+Construction Value: $8,500,000 ($141,667/unit vs Q1 2023 avg: $125,000/unit, +13.3%)
+Property Address: 789 Main Street, Calgary AB T2P 1J9
+Lot Numbers: LOT-2024-DT-456, LOT-2024-DT-457
+Floor Area Ratio (FAR): 3.2 (Q1 2023 district avg: 2.8, densification: +14.3%)
+Parking spaces: 45 (0.75/unit, Q1 2023: 1.0/unit, reduction: -25%)
+PERMIT #2024-RV-00167 - Riverside Mixed-Use Conversion
+District: D02 - Riverside
+Application Number: APP-2024-00023
+Developer: Riverside Properties LLC
+Representative: Sarah Johnson (s_johnson@riversideprops.ca)
+Office: 403-555-3345, Mobile: +1-403-555-3346
+Units: 20 (Q1 2023 similar conversion: 15 units, growth: +33.3%)
+Application Date: Jan 28, 2024, Approval Date: 15-Feb-2024
+Processing Timeline: 18 days (Q1 2023 avg: 38 days, exceptional: -52.6%)
+Expected Build-out: Summer 2024
+Budget: $2,800,000 ($140,000/unit vs Q1 2023 conversions: $118,000/unit, +18.6%)
+Location: 234 River Drive, Calgary, AB T2C-4K8
+Parcel ID: PARCEL-RV-789-2024
+Previous use: Office building (occupied 1985-2023, 39 years)
+Conversion type: CommercialfiResidential (fastest-growing category, +66.7% YoY)
+Sustainability rating: LEED Gold (Q1 2023 avg: LEED Silver)
+PERMIT #2024-NG-00198 - Northgate Residential
+District: D03 - Northgate
+App ID: APP-2024-00034
+Builder: Northern Homes Inc.
+Contact Person: Michael Brown (m.brown@northernhomes.com)
+Phone: (403) 555-4456 ext 201, Fax: 403.555.4457
+Units: Data pending verification (NULL)
+Q1 2023 reference: District approved 25 units
+Submission: 2024/02/20, Issued: 2024/03/01
+Days to Process: 9 (Q1 2023 avg: 38 days, exceptional: -76.3%)
+Fast-track approval: Met all pre-submission requirements
+Construction Start: Q2 2024
+Site: 567 North Avenue, Calgary AB T3K 2M5
+Land Registration: LR-2024-NG-123
+Project Cost: TBD (estimated $3.5M based on Q1 2023 district avg)
+PERMIT #2024-SR-00134 - Southridge Commercial to Residential
+District: D04 - Southridge
+Permit Reference: APP-2024-00008
+Developer: South Ridge Developments
+Project Manager: Patricia Lee (patricia.lee@southridgedev.ca)
+Direct Line: 403-555-5567, Emergency: 1-888-DEV-HELP (1-888-338-4357)
+New Units: 30 (Q1 2023 similar projects: 18 units, growth: +66.7%)
+Filed Date: 2024-01-05, Approved: 2024-01-30
+Processing: 25 days (Q1 2023 avg: 38 days, improvement: -34.2%)
+Occupancy Target: Fall 2024
+Investment: $4,200,000 ($140,000/unit vs Q1 2023: $122,000/unit, +14.8%)
+Address: 890 South Ridge Road, Calgary, AB T2X-6N7
+Title Number: TITLE-SR-2024-456
+Conversion trend: CommercialfiResidential category showing strongest growth (+66.7%)
+Previous building: Retail center (built 1998, 26 years old)
+Adaptive reuse bonus: $200k municipal incentive (promoting conversions)
+PERMIT #2024-WF-00201 - Westfield Residential
+District: D05 - Westfield
+Application: APP-2024-00045
+Developer: West Field Builders Ltd.
+Contact: Robert Chen (r_chen@westfieldbuilders.com)
+Phone: +1 (403) 555-6678, Alt: 403.555.6679
+Units Authorized: 10 (Q1 2023 district total: 30 units, decline: -66.7%)
+Submitted: 2024/02/18, Granted: 2024-03-05
+Review Period: 15 days (Q1 2023 avg: 38 days, improvement: -60.5%)
+Move-in Date: Early 2025
+Value: $1,450,000 ($145,000/unit vs Q1 2023 district: $115,000/unit, +26.1%)
+Property: 345 West Field Lane, Calgary AB T3H 5P2
+Certificate Number: CERT-WF-2024-789
+Market trend: Westfield seeing dramatic unit count decline but cost increases
+Lot size: 0.8 acres (Q1 2023 district avg: 1.2 acres, densification: -33%)
+PERMIT #2024-OT-00223 - Oldtown Heritage
+District: D06 - Oldtown
+Application ID: APP-2024-00056
+Developer: Heritage Restoration Group
+Lead: Elizabeth Martinez (e.martinez@heritagerestoration.ca)
+Office Phone: (403) 555-7789, Mobile: 403-555-7790
+Heritage Hotline: 1-800-HISTORY (1-800-447-8679)
+Approved Units: 5 (Q1 2023: 12 units, decline: -58.3%)
+Application Received: 2024-02-25, Permit Issued: 2024-03-10
+Days: 13 (Q1 2023 heritage avg: 52 days, improvement: -75%)
+Completion: Late 2024
+Budget: $875,000 ($175,000/unit vs Q1 2023 heritage: $158,000/unit, +10.8%)
+Historic Address: 123 Heritage Street, Calgary, AB T2S-3R4
+Heritage Designation: HD-OT-1892-045 (building age: 132 years)
+Trend: Heritage district showing consistent unit count decline (-58.3%)
+Heritage compliance cost: +35% premium over standard residential
+Restoration requirements: 85% original facade preservation mandatory
+Figure 2: Zoning Type Growth Patterns
+
+Comprehensive Housing Trend Analysis and Strategic Insights
+DISTRICT-LEVEL DEVELOPMENT PATTERNS (Q1 2024 vs Q1 2023):
+High-Growth Districts:
+D04 Southridge: +66.7% units (18fi30), leading growth
+- Driving factor: Commercial-to-residential conversions
+- Investment: $4.2M (+14.8% per-unit cost)
+- Trend: Urban core repurposing, retail decline adaptation
+D02 Riverside: +33.3% units (15fi20)
+- Conversion projects showing strong performance
+- Processing time: 18 days (exceptional -52.6% vs district avg)
+- Premium pricing: $140k/unit (+18.6% vs 2023)
+D01 Downtown: +15.4% units (52fi60)
+- Steady densification continuing
+- FAR increasing: 3.2 vs 2.8 in 2023 (+14.3%)
+- Parking reduction trend: 0.75 spaces/unit vs 1.0 in 2023
+Declining Districts:
+D05 Westfield: -66.7% units (30fi10), steepest decline
+- Market saturation or policy constraints indicated
+- Cost per unit surging: +26.1% despite lower volume
+- Lot sizes shrinking: -33% (densification despite unit decline)
+D06 Oldtown: -58.3% units (12fi5)
+- Heritage restrictions limiting development
+- Cost premium: +35% over standard residential
+- Processing improved despite constraints: -75% timeline
+D03 Northgate: NULL data (est. decline from 25 units)
+- Data collection issues or development pause
+- Fastest processing: 9 days (-76.3%), fast-track eligible
+ZONING TYPE PERFORMANCE TRENDS:
+Commercial-to-Residential Conversions (STRONGEST CATEGORY):
+Q1 2020: 8 units fi Q1 2024: 30 units
+5-year growth: +275%, CAGR: +39.4%
+Q1 2023fi2024: +66.7% (18fi30 units)
+Average cost: $140,000/unit
+Market drivers:
+- Retail decline accelerating post-pandemic
+- Municipal adaptive reuse incentives ($200k bonuses)
+- Faster processing (25 days vs 38 day avg, -34%)
+Strategic importance: Addressing housing shortage via existing structures
+Mixed-Use Development (STEADY GROWTH):
+Q1 2020: 45 units fi Q1 2024: 80 units
+5-year growth: +77.8%, CAGR: +15.5%
+Q1 2023fi2024: +17.6% (68fi80 units)
+Average cost: $141,667/unit (highest category)
+Characteristics:
+- Ground-floor commercial mandates
+- Premium locations (downtown, transit corridors)
+- Longer processing: 34 days (above avg but improving)
+Pure Residential (DECLINING):
+Q1 2020: 38 units fi Q1 2024: 42 units
+Q1 2023fi2024: -23.6% (55fi42 units)
+First decline in 5-year period
+Average cost: $145,000/unit
+Trend explanation:
+- Land scarcity pushing toward densification
+- Policy preference for mixed-use zoning
+- Competition from conversion projects
+Heritage Preservation (VOLATILE):
+Q1 2023fi2024: -58.3% (12fi5 units)
+High year-to-year variability (no clear trend)
+Highest cost: $175,000/unit (+35% heritage premium)
+Constraints:
+- 85% facade preservation requirements
+- Limited stock of eligible buildings
+- Extended approval processes (though improving: -75% to 13 days)
+PROCESSING EFFICIENCY REVOLUTION:
+5-year improvement: -51.7% (58 days fi 28 days)
+Q1 2024 performance:
+- Fastest: 9 days (D03, -76.3% vs avg, fast-track)
+- Average: 28 days (below 30-day target, -6.7%)
+- Slowest: 34 days (D01, still -10.5% vs 2023)
+Efficiency drivers:
+1. Digital submission systems (implemented 2021)
+2. Fast-track eligibility (pre-submission compliance)
+3. Conversion project streamlining (25-day avg)
+4. Staff increases (15% FTE growth 2020-2024)
+COST ESCALATION ANALYSIS:
+Average cost per unit:
+Q1 2020: $93,878 (baseline)
+Q1 2024: $134,400 (increase: +43.2%)
+5-year CAGR: +9.3%
+2024 acceleration: +19.6% YoY (vs 5-yr avg of +9.3%)
+Contributing factors:
+- Material costs: +15-20% since 2023
+- Labor shortages: +8-12% wage pressure
+- Enhanced building standards: +5% compliance costs
+- Land values: +12% in core districts
+District cost variance (Q1 2024):
+Highest: D06 Heritage ($175k/unit, +30% vs avg)
+Lowest: D04 Conversions ($140k/unit, +4% vs avg)
+Range: $35k spread (25% variance)
+INVESTMENT TRENDS:
+Total Q1 investment:
+2020: $9.2M fi 2024: $16.8M
+5-year growth: +82.6%
+Investment CAGR: +16.2% (outpacing unit growth of +6.3%)
+Q1 2024 breakdown:
+D01 Downtown: $8.5M (50.6% of total)
+D04 Southridge: $4.2M (25.0%)
+D02 Riverside: $2.8M (16.7%)
+D05 Westfield: $1.45M (8.6%)
+D06 Oldtown: $0.875M (5.2%)
+D03 Northgate: $3.5M est. (20.8%, pending verification)
+Concentration trend: Top 2 districts represent 75.6% of Q1 investment
+2024 FULL-YEAR PROJECTIONS:
+Based on Q1 trends and historical patterns:
+Total units (FY 2024): 480-520 units
+- Q1 actual: 125 units (24% of projection)
+- Seasonal adjustment: Q2-Q4 typically 3x Q1 activity
+- YoY vs 2023: -5% to +2% (market normalization)
+Total investment: $64M-$72M
+- Q1 actual: $16.8M (24-26% of projection)
+- Average cost: $133k-$138k per unit
+- YoY growth: +8-15%
+By zoning type (FY 2024 projected):
+- Mixed-Use: 300-320 units (+12-15% YoY)
+- Conversions: 110-130 units (+45-60% YoY)
+- Pure Residential: 60-70 units (-25 to -30% YoY)
+- Heritage: 15-20 units (flat to -15% YoY)
+Processing metrics:
+- Average time: 26-28 days (sustaining efficiency)
+- Fast-track eligible: 45-50% of applications
+- Digital submission rate: 95%+ (up from 78% in 2023)
+STRATEGIC RECOMMENDATIONS:
+1. Capitalize on conversion momentum:
+- Expand adaptive reuse incentives beyond $200k
+- Target vacant retail/office in D01, D04, D02
+- Projected impact: +30-40 additional units annually
+2. Address Westfield decline:
+- Investigate -66.7% unit drop root causes
+- Consider zoning flexibility or incentives
+- Risk: Market saturation or infrastructure constraints
+3. Resolve Northgate data issues:
+- NULL data hampering analysis and planning
+- District showed 9-day processing (excellent efficiency)
+- Opportunity: Leverage fast-track success
+4. Heritage district strategy:
+- -58.3% decline despite improved processing
+- Balance preservation with housing needs
+- Consider graduated requirements by building age
+5. Cost containment focus:
+- +19.6% annual cost increase unsustainable
+- Target: Return to 5-year average of +9.3%
+- Tools: Bulk material procurement, modular construction
+6. Processing efficiency maintenance:
+- Sustain 28-day average (vs 30-day target)
+- Expand fast-track eligibility criteria
+- Goal: 90%+ digital submissions by Q4 2024
+Classification: PUBLIC RECORD
+Document Reference: HZ-Q1-2024-FINAL-REPORT
+SHA-1 Checksum: 2fd4e1c67a2d28fced849ee1bb76e7391b93eb12
+Generated: 2024-04-05 09:30:15 MDT
+Report Version: 1.3
+Pages: 3/3
+Trend methodology: YoY comparison, CAGR, variance analysis, regression modeling
+Data confidence: 94% (excluding D03 NULL unit count)
+© 2024 City Planning & Zoning Department. Public Domain.
