@@ -12,6 +12,10 @@ def parse_housing_data(file_list):
     
     for file_name in file_list:
         logging.info(f"Processing file: {file_name}")
+        if "2023" in file_name:
+            file_period = "2023"
+        elif "2024" in file_name:
+            file_period = "2024_Q1"
         try:
             with open(file_name, 'r', encoding='utf-8') as f:
                 content = f.read()
@@ -27,7 +31,8 @@ def parse_housing_data(file_list):
                 body = parts[i+1] if i+1 < len(parts) else ""
                 
                 row = {}
-                
+                # Add year to the row dictionary
+                row['Report_period'] = file_period
                 #HEADER EXTRACTION
                 # Extract ID (D01)
                 d_id = re.search(r'(D\d+)', header)
@@ -43,7 +48,8 @@ def parse_housing_data(file_list):
                 
                 # UNITS: Catches "Units:", "New Units:", "Units Authorized:", "Approved Units:", "Total... units:"
                 # The '.*?' allows for text between the word "Units" and the number (like "Units approved in 2023:")
-                units_pattern = r'(?:Units|New Units|Authorized|Approved|Total new residential units).*?:\s*(\d+)'
+                
+                units_pattern = r'(?:Units|New Units|Authorized|Approved|Total new residential units|Units_Q1_2023).*?:\s*(\d+)'                
                 units = re.search(units_pattern, body, re.IGNORECASE)
                 
                 if units:
@@ -77,9 +83,9 @@ df = df.drop_duplicates(subset=['District_ID', 'New_Residential_Units'])
 df = df.sort_values('District_ID')
     
     # Select ONLY the clean columns. This removes 'Zoning_Type' automatically.
-df = df[['District_ID', 'District_Name', 'New_Residential_Units']]
-    
+df = df[['District_ID', 'District_Name', 'Report_period', 'New_Residential_Units']]    
     # Save to CSV
+df = df.reset_index(drop=True)
 df.to_csv('Housing_Zoning_Cleaned.csv', index=False)
 print("Success, Created 'Housing_Zoning_Cleaned.csv' with", len(df), "rows.")
 print(df)
@@ -102,7 +108,9 @@ report had clear zoning categories, the others either left the field out or
 used that section for different information. To ensure the final CSV remained clean 
 and accurate, I decided to remove this column rather than include 
 misleading or missing information.
-
+- Another significant challenge was managing the inconsistency between the Full Year 2023 report and the 
+Q1 2024 update, which I resolved by standardizing the 'Report_Period' column to ensure an accurate 
+'apples-to-apples'comparison.
 -I used the logging library instead of print statements because it helps keep track of 
 errors better. I watched some tutorials to understand how to set it up properly.
 
