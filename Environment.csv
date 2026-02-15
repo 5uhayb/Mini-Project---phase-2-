@@ -1,0 +1,7 @@
+District_ID,AQI,AQI_category,Temperature_C,Humidity(%),Precip_mm,Wind_speed(km/h)
+D01,45,Good,12.3,68,2.0,15.2
+D02,55,Moderate,11.8,72,0.0,12.8
+D03,65,Moderate,10.5,81,5.2,18.5
+D04,35,Good,13.0,65,0.0,10.3
+D05,80,Moderate,9.7,75,1.1,22.1
+D06,50,Good,12.0,70,0.2,

@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "city": "CG",
+    "province": "AB",
+    "country": "Canada",
+    "data_source": "Municipal Weather and Air Quality Monitoring System",
+    "generated_at": "2024-10-07T20:12:29.723040Z",
+    "version": "2.1",
+    "unit_system": "metric"
+  },
+  "districts": [
+    {
+      "District_ID": "D01",
+      "District_Name": "Downtown",
+      "weather": {
+        "temp_c": 12.3,
+        "temp_f": 54.1,
+        "precip_mm": 2.0,
+        "humidity_percent": 68,
+        "wind_speed_kmh": 15.2
+      },
+      "aqi": {
+        "pm25": 12,
+        "pm10": 25,
+        "aqi": 45,
+        "category": "Good"
+      },
+      "monitoring_station": "DT-Central-01",
+      "last_updated": "2024-10-07T19:45:00Z"
+    },
+    {
+      "District_ID": "D02",
+      "District_Name": "Riverside",
+      "weather": {
+        "temp_c": 11.8,
+        "temp_f": 53.2,
+        "precip_mm": 0.0,
+        "humidity_percent": 72,
+        "wind_speed_kmh": 12.8
+      },
+      "aqi": {
+        "pm25": 18,
+        "pm10": 32,
+        "aqi": 55,
+        "category": "Moderate"
+      },
+      "monitoring_station": "RS-Park-02",
+      "last_updated": "2024-10-07T19:50:00Z"
+    },
+    {
+      "District_ID": "D03",
+      "District_Name": "Northgate",
+      "weather": {
+        "temp_c": 10.5,
+        "temp_f": null,
+        "precip_mm": 5.2,
+        "humidity_percent": 81,
+        "wind_speed_kmh": 18.5
+      },
+      "aqi": {
+        "pm25": 22,
+        "pm10": 45,
+        "aqi": 65,
+        "category": "Moderate"
+      },
+      "monitoring_station": "NG-Main-03",
+      "last_updated": "2024-10-07T19:55:00Z"
+    },
+    {
+      "District_ID": "D04",
+      "District_Name": "Southridge",
+      "weather": {
+        "temp_c": 13.0,
+        "temp_f": 55.4,
+        "precip_mm": 0.0,
+        "humidity_percent": 65,
+        "wind_speed_kmh": 10.3
+      },
+      "aqi": {
+        "pm25": 9,
+        "pm10": 18,
+        "aqi": 35,
+        "category": "Good"
+      },
+      "monitoring_station": "SR-Commercial-04",
+      "last_updated": "2024-10-07T19:48:00Z"
+    },
+    {
+      "District_ID": "D05",
+      "District_Name": "Westfield",
+      "weather": {
+        "temp_c": 9.7,
+        "temp_f": 49.5,
+        "precip_mm": 1.1,
+        "humidity_percent": 75,
+        "wind_speed_kmh": 22.1
+      },
+      "aqi": {
+        "pm25": 30,
+        "pm10": 58,
+        "aqi": 80,
+        "category": "Moderate"
+      },
+      "monitoring_station": "WF-Residential-05",
+      "last_updated": "2024-10-07T19:42:00Z"
+    },
+    {
+      "District_ID": "D06",
+      "District_Name": "Oldtown",
+      "weather": {
+        "temp_c": 12.0,
+        "temp_f": 53.6,
+        "precip_mm": 0.2,
+        "humidity_percent": 70
+      },
+      "aqi": {
+        "pm25": 14,
+        "pm10": 28,
+        "aqi": 50,
+        "category": "Good"
+      },
+      "monitoring_station": "OT-Heritage-06",
+      "last_updated": "2024-10-07T19:40:00Z"
+    }
+  ],
+  "notes": [
+    "All measurements are averaged over the previous 24-hour period",
+    "AQI categories: Good (0-50), Moderate (51-100), Unhealthy for Sensitive Groups (101-150)",
+    "Some sensors experienced intermittent connectivity issues - marked as null values"
+  ]
+}
