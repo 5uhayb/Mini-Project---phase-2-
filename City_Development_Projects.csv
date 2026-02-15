@@ -1,0 +1,16 @@
+Project_ID,District_ID,Project_Name,Project_Start_Date,Project_Status,Estimated_Units
+P1001,D01,Riverfront Residences,11/1/2023,Ongoing,120
+P1002,D02,Riverside Commons,12/1/2023,completed,45
+P1003,D03,Northgate Lofts,2/15/2024,ongoing,
+P1004,D04,Southridge Mall Redevelopment,10-Jan-24,Planning,78
+P1005,D05,Westfield EcoHomes,3/1/2024,ongoing,32
+P1006,D06,Oldtown Heritage Restoration,3/5/2024,Ongoing,5
+P1007,D01,Downtown Transit Hub,April 1 2024,planning,150
+P1008,D02,Riverside Park Extension,5/12/2024,completed,0
+P1009,D03,Northgate Community Center,15/06/2024,On Hold,N/A
+P1010,D04,Southridge Green Corridor,7/20/2024,ongoing,22
+P1011,D05,Westfield Mixed-Use Complex,8/15/2024,Planning,85
+P1001,D01,Riverfront Residences,11/1/2023,Ongoing,120
+P1012,D06,Oldtown Library Renovation,9/1/2024,completed,null
+P1013,D01,Downtown Arts District,Sept 30 2024,ongoing,95
+P1014,D03,Northgate Medical Facility,10/5/2024,Planning,

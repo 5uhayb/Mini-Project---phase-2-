@@ -1,0 +1,15 @@
+Project_ID,District_ID,Project_Name,Project_Start_Date,Project_Status,Estimated_Units,District_Name,Population,Median_Income,Employment_Rate
+P1001,D01,Riverfront Residences,2023-11-01,ongoing,120.0,Downtown,45000,72000.0,0.78
+P1002,D02,Riverside Commons,2023-12-01,completed,45.0,Riverside,18500,65000.0,0.73
+P1003,D03,Northgate Lofts,2024-02-15,ongoing,,Northgate,22000,,0.69
+P1004,D04,Southridge Mall Redevelopment,,planning,78.0,Southridge,15000,59000.5,
+P1005,D05,Westfield EcoHomes,2024-03-01,ongoing,32.0,Westfield,12500,81000.0,0.82
+P1006,D06,Oldtown Heritage Restoration,2024-03-05,ongoing,5.0,Oldtown,8200,47000.0,0.65
+P1007,D01,Downtown Transit Hub,,planning,150.0,Downtown,45000,72000.0,0.78
+P1008,D02,Riverside Park Extension,2024-05-12,completed,0.0,Riverside,18500,65000.0,0.73
+P1009,D03,Northgate Community Center,,on hold,,Northgate,22000,,0.69
+P1010,D04,Southridge Green Corridor,2024-07-20,ongoing,22.0,Southridge,15000,59000.5,
+P1011,D05,Westfield Mixed-Use Complex,2024-08-15,planning,85.0,Westfield,12500,81000.0,0.82
+P1012,D06,Oldtown Library Renovation,2024-09-01,completed,,Oldtown,8200,47000.0,0.65
+P1013,D01,Downtown Arts District,,ongoing,95.0,Downtown,45000,72000.0,0.78
+P1014,D03,Northgate Medical Facility,2024-10-05,planning,,Northgate,22000,,0.69

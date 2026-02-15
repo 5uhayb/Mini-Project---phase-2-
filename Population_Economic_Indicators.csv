@@ -1,0 +1,8 @@
+District_ID,District_Name,Population,Median_Income,Employment_Rate
+D01,Downtown,45000,72000,0.78
+D02,Riverside,18500,65000,73%
+D03,Northgate,22000,NULL,0.69
+D04,Southridge,15000,59000.5,
+D05,Westfield,12500,"81,000",0.82
+D06,Oldtown,8200,47000,65.00%
+D01,downtown,45200,72500,0.78
