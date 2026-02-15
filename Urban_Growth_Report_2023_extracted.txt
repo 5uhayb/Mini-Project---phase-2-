@@ -1,0 +1,225 @@
+Urban Growth Report — 2023
+Executive Summary
+The 2023 Urban Growth Report summarizes changes in land use, new residential development, and
+green space improvements across city districts. Data sources include permit logs, on-site surveys, and
+energy-efficiency reports. This report covers the period from January 1, 2023 to December 31, 2023.
+Total development increased 19.4% year-over-year, with 345 new residential units approved compared
+to 289 in 2022 (growth rate: +19.4%). Total investment reached $32.8M in 2023, up from $24.2M in
+2022 (growth rate: +35.5%).
+Historical Development Trends (2020-2023)
+Residential Unit Approvals by Year:
+2020: 234 units approved (baseline year, growth rate: N/A)
+2021: 267 units approved (growth rate: +14.1% YoY)
+2022: 289 units approved (growth rate: +8.2% YoY)
+2023: 345 units approved (growth rate: +19.4% YoY)
+Total Investment by Year:
+2020: $18.5M total investment (avg cost per unit: $79,060)
+2021: $21.3M total investment (avg cost per unit: $79,775, growth: +15.1%)
+2022: $24.2M total investment (avg cost per unit: $83,737, growth: +13.6%)
+2023: $32.8M total investment (avg cost per unit: $95,072, growth: +35.5%)
+Green Space Development:
+2020: 15,200 sq_m new green space
+2021: 14,850 sq_m new green space (change: -2.3%)
+2022: 15,551 sq_m new green space (change: +4.7%)
+2023: 15,051 sq_m new green space (change: -3.2%)
+Report Contact Information
+For inquiries regarding this report, please contact:
+Primary Contact: Sarah Martinez, Urban Planning Director
+Email: sarah.martinez@cityplanning.gov
+Phone: (403) 555-0142
+Alt Phone: 403.555.0143
+Data Analysis: James Chen, Senior Analyst
+Email: j.chen@cityplanning.gov
+Phone: (403) 555-0287
+Public Relations: Maria Rodriguez
+Email: maria_rodriguez@cityplanning.gov
+Office: +1-403-555-0391
+Mobile: 403-555-0392
+Table 1: New Residential Units and Green Space (2023 vs 2022)
+
+
+District_ID District_Name Units_2023 Units_2022 YoY_Change_% Green_Space_2023_sq_m
+D01 Downtown 120 95 +26.3% 3500.5
+D02 Riverside 45 52 -13.5% 4200.0
+D03 Northgate NULL 38 N/A 2100.25
+D04 Southridge 78 48 +62.5% NULL
+D05 Westfield 32 28 +14.3% 800.0
+D06 Oldtown 15 28 -46.4% 950.2
+Notes:
+* YoY (Year-over-Year) change calculated as: ((2023 value - 2022 value) / 2022 value) × 100
+* Positive percentages indicate growth; negative percentages indicate decline
+* 'NULL' indicates missing information reported by field teams
+* Report compiled on 2023-12-15 by data team
+* Last updated: Dec 15, 2023 at 14:35:22 EST
+* Document ID: URB-2023-GROWTH-REPORT-v1.2
+* Validation timestamp: 2023-12-15T14:35:22-05:00
+* Next review scheduled for: 2024-03-01
+Figure 1: Green Space Distribution by District
+
+
+Detailed District Analysis with Growth Trends
+The following sections provide detailed breakdowns for each district, including permit numbers,
+approval dates, project timelines, and year-over-year performance metrics.
+District D01 - Downtown:
+Total new residential units approved in 2023: 120 units (2022: 95 units, change: +26.3%)
+Average project size: 40.0 units/project (2022: 31.7 units/project, change: +26.2%)
+Total investment: $12,450,000.00 (2022: $8,950,000, growth rate: +39.1%)
+Cost per unit: $103,750 (2022: $94,211, increase: +10.1%)
+Major projects include:
+- Permit #2023-DT-00145 approved on 01/15/2023 for 45 units ($4.8M, $106,667/unit)
+- Permit #2023-DT-00289 approved on 04/22/2023 for 35 units ($3.2M, $91,429/unit)
+- Permit #2023-DT-00412 approved on 08/30/2023 for 40 units ($4.45M, $111,250/unit)
+Project contact: developer.services@downtown.dev
+Green space allocation: 3,500.5 sq_m (2022: 3,850 sq_m, change: -9.1%)
+Green space per unit ratio: 29.2 sq_m/unit (2022: 40.5 sq_m/unit, decline: -27.9%)
+District D02 - Riverside:
+Total new residential units: 45 units (2022: 52 units, change: -13.5%)
+Investment: $5,890,000 (2022: $6,420,000, change: -8.3%)
+Average cost per unit: $130,889 (2022: $123,462, increase: +6.0%)
+Key permits:
+- Permit #2023-RV-00087 issued 2023/03/10 for 25 units ($3.4M, $136,000/unit)
+- Permit #2023-RV-00156 issued 2023-07-18 for 20 units ($2.49M, $124,500/unit)
+Coordinator email: riverside.planning@city.gov
+Emergency contact: 403-555-PLAN (403-555-7526)
+Green space: 4,200.0 sq_m (2022: 4,550 sq_m, change: -7.7%)
+Green space ratio: 93.3 sq_m/unit (2022: 87.5 sq_m/unit, improvement: +6.6%)
+Development trend: Declining unit count but increasing quality/cost metrics
+District D03 - Northgate:
+Residential unit data pending field verification (NULL)
+2022 baseline: 38 units approved
+Permit applications in review: #2023-NG-00234, #2023-NG-00245
+Expected completion dates: Q1 2024
+Estimated investment: $4.2M (based on similar projects)
+Contact phone: (403) 555-0891 or 403.555.0892
+Green space: 2,100.25 sq_m (2022: 2,450 sq_m, estimated change: -14.3%)
+District D04 - Southridge:
+Approved units: 78 (2022: 48 units, change: +62.5%)
+Highest growth rate among all districts
+Total investment: $8,200,000 (2022: $4,100,000, growth: +100.0%)
+Cost per unit: $105,128 (2022: $85,417, increase: +23.1%)
+Green space data missing - resurvey scheduled
+Primary permit: #2023-SR-00398 dated 06-15-2023 (35 units, $3.8M)
+Secondary permit: #2023-SR-00445 dated 2023/09/22 (43 units, $4.4M)
+Project email: southridge_development@city.gov
+Development pattern: Rapid expansion with commercial-to-residential conversions
+Quarter-over-quarter growth: Q1: +15%, Q2: +22%, Q3: +38%, Q4: +18%
+District D05 - Westfield:
+Approved units: 32 (2022: 28 units, change: +14.3%)
+Investment: $2,100,000 (2022: $1,850,000, growth: +13.5%)
+Cost per unit: $65,625 (2022: $66,071, decrease: -0.7%)
+Green space: 800.0 sq_m (2022: 950 sq_m, change: -15.8%)
+Green space per unit: 25.0 sq_m/unit (2022: 33.9 sq_m/unit, decline: -26.3%)
+
+
+Permit: #2023-WF-00201 dated 2024-03-05
+Contact: r_chen@westfieldbuilders.com
+Trend: Stable moderate growth, declining green space allocation
+District D06 - Oldtown:
+Approved units: 15 (2022: 28 units, change: -46.4%)
+Largest decline among all districts
+Investment: $1,900,000 (2022: $3,500,000, change: -45.7%)
+Cost per unit: $126,667 (2022: $125,000, slight increase: +1.3%)
+Green space: 950.2 sq_m (2022: 1,200 sq_m, change: -20.8%)
+Permit: #2023-OT-00223 dated 2024-03-10
+Heritage restrictions limiting new development
+Focus shifting to renovation vs. new construction
+Heritage designation impact: -46.4% unit approval rate
+Figure 2: Year-over-Year Development Trends
+
+
+Comprehensive Trend Analysis and Projections
+OVERALL CITY DEVELOPMENT TRENDS (2020-2023):
+Residential Unit Growth Trajectory:
+2020 fi 2021: +33 units (+14.1% growth, avg $79,775/unit)
+2021 fi 2022: +22 units (+8.2% growth, avg $83,737/unit)
+2022 fi 2023: +56 units (+19.4% growth, avg $95,072/unit)
+3-year CAGR (Compound Annual Growth Rate): +13.8%
+Acceleration trend: Growth rate increased in 2023 vs. 2022
+Investment Trends:
+2020: $18.5M total (100% baseline)
+2021: $21.3M total (growth: +15.1%, cumulative: +15.1%)
+2022: $24.2M total (growth: +13.6%, cumulative: +30.8%)
+2023: $32.8M total (growth: +35.5%, cumulative: +77.3%)
+3-year investment CAGR: +21.0%
+Investment growing faster than unit count indicates quality/cost increases
+Cost Per Unit Trends:
+2020: $79,060/unit (baseline)
+2021: $79,775/unit (increase: +0.9%)
+2022: $83,737/unit (increase: +5.0%)
+2023: $95,072/unit (increase: +13.5%)
+Total 3-year increase: +20.3%
+Average annual cost escalation: +6.4%
+Green Space Development Patterns:
+2020: 15,200 sq_m (ratio: 64.96 sq_m/unit)
+2021: 14,850 sq_m (ratio: 55.62 sq_m/unit, change: -14.4%)
+2022: 15,551 sq_m (ratio: 53.81 sq_m/unit, change: -3.3%)
+2023: 15,051 sq_m (ratio: 43.63 sq_m/unit, change: -18.9%)
+Concerning trend: Green space per unit declining significantly (-32.8% over 3 years)
+District-Level Growth Patterns:
+High-growth districts (>20% YoY):
+- D01 Downtown: +26.3% (urban densification trend)
+- D04 Southridge: +62.5% (commercial conversion boom)
+Moderate-growth districts (10-20% YoY):
+- D05 Westfield: +14.3% (steady suburban expansion)
+Declining districts (negative YoY):
+- D02 Riverside: -13.5% (saturation effects)
+- D06 Oldtown: -46.4% (heritage restrictions)
+Data-incomplete districts:
+- D03 Northgate: NULL (pending verification)
+PROJECTIONS FOR 2024:
+Based on 3-year trend analysis and current pipeline:
+Projected units: 410-430 units (growth rate: +19-25% YoY)
+Projected investment: $40M-$44M (growth rate: +22-34% YoY)
+Projected cost per unit: $98,000-$102,000 (increase: +3-7% YoY)
+Projected green space: 14,200-14,800 sq_m (change: -2% to -6% YoY)
+Green space per unit ratio: 34-36 sq_m/unit (decline: -18% to -22%)
+Key Risk Factors:
+
+
+1. Declining green space ratios may impact livability scores
+2. Rising costs per unit reducing affordability (20.3% increase over 3 years)
+3. Heritage district constraints limiting growth in D06
+4. Potential market saturation in D02 Riverside area
+Growth Drivers:
+1. Strong commercial-to-residential conversion activity (D04)
+2. Urban densification initiatives (D01)
+3. Consistent year-over-year investment growth (+21% CAGR)
+4. Sustained permitting activity across most districts
+Financial Summary and Budget Trends
+Total Budget Allocation Trends:
+FY2020: $18,500,000 (baseline)
+FY2021: $21,300,000 (growth: +15.1%)
+FY2022: $24,200,000 (growth: +13.6%)
+FY2023: $32,800,000 (growth: +35.5%)
+FY2024 (projected): $42,000,000 (growth: +28.0%)
+Budget Allocation by District (2023):
+- Downtown Development Fund: ACC-2023-DT-001 ($12.45M, 38.0% of total)
+- Riverside Infrastructure: ACC-2023-RV-002 ($5.89M, 18.0% of total)
+- Northgate Planning: ACC-2023-NG-003 ($3.2M, 9.8% of total)
+- Southridge Mixed-Use: ACC-2023-SR-004 ($8.2M, 25.0% of total)
+- Westfield Residential: ACC-2023-WF-005 ($2.1M, 6.4% of total)
+- Oldtown Heritage: ACC-2023-OT-006 ($1.9M, 5.8% of total)
+Budget Allocation Shifts (2022 vs 2023):
+Downtown: +39.1% (increased from $8.95M to $12.45M)
+Riverside: -8.3% (decreased from $6.42M to $5.89M)
+Southridge: +100.0% (doubled from $4.1M to $8.2M)
+Oldtown: -45.7% (decreased from $3.5M to $1.9M)
+Fiscal Year Performance:
+FY2023 (January 1, 2023 - December 31, 2023)
+Total budgeted: $32,800,000
+Total spent: $31,450,000 (96.0% utilization)
+Remaining: $1,350,000 (4.0% variance)
+Budget efficiency: 96.0% (2022: 94.5%, improvement: +1.5%)
+Treasury Contact: finance@cityplanning.gov
+Phone: +1 (403) 555-0100
+Fax: 403-555-0101
+Document Classification: PUBLIC
+File Reference: URB-GROWTH-2023-FINAL
+SHA-256 Checksum: a3f5d8c9e1b2f4a6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0
+Generated: 2023-12-15 14:35:22 EST
+Page sequence: 3 of 3
+Trend analysis methodology: Year-over-year comparison, CAGR calculation, linear regression
+Data confidence level: 95% (excluding NULL values)
+© 2023 City Planning Department. All rights reserved.
+
+

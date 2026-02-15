@@ -42,6 +42,8 @@ Commercial-to-Residential conversions:
 Heritage designations:
 2020: 7 units fi 2021: 7 units fi 2022: 6 units fi 2023: 12 units fi 2024: 5 units
 High variability: No clear trend, policy-dependent
+
+
 Department Contacts
 Zoning & Planning Department:
 Director: Amanda Chen
@@ -72,6 +74,7 @@ D04 ComfiResidential 30 18 +66.7% 2024-01-30
 D05 Residential 10 30 -66.7% 2024-03-05
 D06 Heritage 5 12 -58.3% 2024-03-10
 Figure 1: Permit Processing Efficiency Trends
+
 
 Detailed Permit Analysis with Performance Metrics
 The following section provides comprehensive details for each permit issued in Q1 2024, including
@@ -126,6 +129,8 @@ Project Cost: TBD (estimated $3.5M based on Q1 2023 district avg)
 PERMIT #2024-SR-00134 - Southridge Commercial to Residential
 District: D04 - Southridge
 Permit Reference: APP-2024-00008
+
+
 Developer: South Ridge Developments
 Project Manager: Patricia Lee (patricia.lee@southridgedev.ca)
 Direct Line: 403-555-5567, Emergency: 1-888-DEV-HELP (1-888-338-4357)
@@ -172,6 +177,7 @@ Trend: Heritage district showing consistent unit count decline (-58.3%)
 Heritage compliance cost: +35% premium over standard residential
 Restoration requirements: 85% original facade preservation mandatory
 Figure 2: Zoning Type Growth Patterns
+
 
 Comprehensive Housing Trend Analysis and Strategic Insights
 DISTRICT-LEVEL DEVELOPMENT PATTERNS (Q1 2024 vs Q1 2023):
@@ -220,6 +226,8 @@ Characteristics:
 - Ground-floor commercial mandates
 - Premium locations (downtown, transit corridors)
 - Longer processing: 34 days (above avg but improving)
+
+
 Pure Residential (DECLINING):
 Q1 2020: 38 units fi Q1 2024: 42 units
 Q1 2023fi2024: -23.6% (55fi42 units)
@@ -268,6 +276,8 @@ Total Q1 investment:
 2020: $9.2M fi 2024: $16.8M
 5-year growth: +82.6%
 Investment CAGR: +16.2% (outpacing unit growth of +6.3%)
+
+
 Q1 2024 breakdown:
 D01 Downtown: $8.5M (50.6% of total)
 D04 Southridge: $4.2M (25.0%)
@@ -312,6 +322,8 @@ STRATEGIC RECOMMENDATIONS:
 - -58.3% decline despite improved processing
 - Balance preservation with housing needs
 - Consider graduated requirements by building age
+
+
 5. Cost containment focus:
 - +19.6% annual cost increase unsustainable
 - Target: Return to 5-year average of +9.3%
@@ -329,3 +341,5 @@ Pages: 3/3
 Trend methodology: YoY comparison, CAGR, variance analysis, regression modeling
 Data confidence: 94% (excluding D03 NULL unit count)
 © 2024 City Planning & Zoning Department. Public Domain.
+
+
