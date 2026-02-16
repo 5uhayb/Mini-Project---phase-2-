@@ -3,7 +3,7 @@ import logging
 
 #set up logging
 logging.basicConfig(
-    filename="pdf_extraction.log",
+    filename="./LOGS/pdf_extraction.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )

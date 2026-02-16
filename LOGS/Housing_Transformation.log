@@ -1,0 +1,969 @@
+2026-02-15 12:31:51,479 - INFO - Starting Transformation Phase...
+2026-02-15 12:31:51,479 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 12:31:51,503 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 12:31:51,520 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 12:34:28,156 - INFO - Starting Transformation Phase...
+2026-02-15 12:34:28,157 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 12:34:28,157 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 12:34:28,158 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 12:34:37,630 - INFO - Starting Transformation Phase...
+2026-02-15 12:34:37,630 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 12:34:37,631 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 12:34:37,631 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 12:37:16,421 - INFO - Starting Transformation Phase...
+2026-02-15 12:37:16,421 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 12:37:16,422 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 12:37:16,422 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 12:41:20,522 - INFO - Starting Transformation Phase...
+2026-02-15 12:41:20,522 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 12:41:20,523 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 12:41:20,523 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 12:41:31,567 - INFO - Starting Transformation Phase...
+2026-02-15 12:41:31,567 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 12:41:31,568 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 12:41:31,568 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 12:51:29,343 - INFO - Starting Transformation Phase...
+2026-02-15 12:51:29,343 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 12:51:29,344 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 12:51:29,345 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 12:54:32,809 - INFO - Starting Transformation Phase...
+2026-02-15 12:54:32,809 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 12:54:32,810 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 12:54:32,810 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 12:57:00,869 - INFO - Starting Transformation Phase...
+2026-02-15 12:57:00,869 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 12:57:00,870 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 12:57:00,870 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 12:57:50,637 - INFO - Starting Transformation Phase...
+2026-02-15 12:57:50,637 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 12:57:50,638 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 12:57:50,639 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 13:10:25,620 - INFO - Starting Transformation Phase...
+2026-02-15 13:10:25,620 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 13:10:25,621 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 13:10:25,621 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 13:10:31,545 - INFO - Starting Transformation Phase...
+2026-02-15 13:10:31,545 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 13:10:31,546 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 13:10:31,547 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 13:15:12,712 - INFO - Starting Transformation Phase...
+2026-02-15 13:15:12,712 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 13:15:12,712 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 13:15:12,714 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 13:15:14,269 - INFO - Starting Transformation Phase...
+2026-02-15 13:15:14,269 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 13:15:14,270 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 13:15:14,270 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 13:15:20,636 - INFO - Starting Transformation Phase...
+2026-02-15 13:15:20,637 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 13:15:20,637 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 13:15:20,638 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 13:41:19,892 - INFO - Starting Transformation Phase...
+2026-02-15 13:41:19,893 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 13:41:19,893 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 13:41:19,894 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 13:44:05,953 - INFO - Starting Transformation Phase...
+2026-02-15 13:44:05,953 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 13:44:05,953 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 13:44:05,954 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 13:44:06,390 - INFO - Starting Transformation Phase...
+2026-02-15 13:44:06,390 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 13:44:06,390 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 13:44:06,390 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:07:16,906 - INFO - Starting Transformation Phase...
+2026-02-15 14:07:16,906 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:07:16,906 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:07:16,907 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:07:21,026 - INFO - Starting Transformation Phase...
+2026-02-15 14:07:21,026 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:07:21,027 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:07:21,027 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:07:43,654 - INFO - Starting Transformation Phase...
+2026-02-15 14:07:43,654 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:07:43,655 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:07:43,655 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:15:04,394 - INFO - Starting Transformation Phase...
+2026-02-15 14:15:04,394 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:15:04,394 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:15:04,395 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:15:51,468 - INFO - Starting Transformation Phase...
+2026-02-15 14:15:51,468 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:15:51,469 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:15:51,469 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:16:14,276 - INFO - Starting Transformation Phase...
+2026-02-15 14:16:14,278 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:16:14,278 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:16:14,278 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:17:32,841 - INFO - Starting Transformation Phase...
+2026-02-15 14:17:32,841 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:17:32,842 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:17:32,842 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:17:40,038 - INFO - Starting Transformation Phase...
+2026-02-15 14:17:40,039 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:17:40,039 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:17:40,039 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:19:02,895 - INFO - Starting Transformation Phase...
+2026-02-15 14:19:02,895 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:19:02,896 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:19:02,896 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:19:05,995 - INFO - Starting Transformation Phase...
+2026-02-15 14:19:05,995 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:19:05,996 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:19:05,996 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:22:05,136 - INFO - Starting Transformation Phase...
+2026-02-15 14:22:05,136 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:22:05,137 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:22:05,137 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:23:24,210 - INFO - Starting Transformation Phase...
+2026-02-15 14:23:24,210 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:23:24,211 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:23:24,211 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:24:36,228 - INFO - Starting Transformation Phase...
+2026-02-15 14:24:36,228 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:24:36,229 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:24:36,230 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:24:52,282 - INFO - Starting Transformation Phase...
+2026-02-15 14:24:52,282 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:24:52,282 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:24:52,283 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:25:21,129 - INFO - Starting Transformation Phase...
+2026-02-15 14:25:21,129 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:25:21,130 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:25:21,130 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:28:21,896 - INFO - Starting Transformation Phase...
+2026-02-15 14:28:21,896 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:28:21,897 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:28:21,897 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:35:54,739 - INFO - Starting Transformation Phase...
+2026-02-15 14:35:54,739 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:35:54,740 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:35:54,740 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:36:07,812 - INFO - Starting Transformation Phase...
+2026-02-15 14:36:07,812 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:36:07,813 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:36:07,813 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:41:54,601 - INFO - Starting Transformation Phase...
+2026-02-15 14:41:54,601 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:41:54,601 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:41:54,602 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:42:28,174 - INFO - Starting Transformation Phase...
+2026-02-15 14:42:28,174 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:42:28,175 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:42:28,175 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:42:31,915 - INFO - Starting Transformation Phase...
+2026-02-15 14:42:31,915 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:42:31,915 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:42:31,916 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:44:37,780 - INFO - Starting Transformation Phase...
+2026-02-15 14:44:37,780 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:44:37,781 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:44:37,782 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:44:39,601 - INFO - Starting Transformation Phase...
+2026-02-15 14:44:39,601 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:44:39,602 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:44:39,602 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:45:04,537 - INFO - Starting Transformation Phase...
+2026-02-15 14:45:04,537 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:45:04,538 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:45:04,538 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:45:08,158 - INFO - Starting Transformation Phase...
+2026-02-15 14:45:08,159 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:45:08,159 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:45:08,159 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:55:01,135 - INFO - Starting Transformation Phase...
+2026-02-15 14:55:01,135 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:55:01,136 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:55:01,136 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 14:55:16,455 - INFO - Starting Transformation Phase...
+2026-02-15 14:55:16,455 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 14:55:16,456 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 14:55:16,456 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 15:18:08,996 - INFO - Starting Transformation Phase...
+2026-02-15 15:18:08,996 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 15:18:08,997 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 15:18:08,997 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 15:18:20,293 - INFO - Starting Transformation Phase...
+2026-02-15 15:18:20,294 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 15:18:20,294 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 15:18:20,294 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 17:58:48,697 - INFO - Starting Transformation Phase...
+2026-02-15 17:58:48,697 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:06:01,369 - INFO - Starting Transformation Phase...
+2026-02-15 18:06:01,369 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:07:19,245 - INFO - Starting Transformation Phase...
+2026-02-15 18:07:19,245 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:08:37,149 - INFO - Starting Transformation Phase...
+2026-02-15 18:08:37,149 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:10:37,718 - INFO - Starting Transformation Phase...
+2026-02-15 18:10:37,718 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:17:53,233 - INFO - Starting Transformation Phase...
+2026-02-15 18:17:53,233 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:18:27,687 - INFO - Starting Transformation Phase...
+2026-02-15 18:18:27,687 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:18:47,908 - INFO - Starting Transformation Phase...
+2026-02-15 18:18:47,908 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:19:02,529 - INFO - Starting Transformation Phase...
+2026-02-15 18:19:02,529 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:22:35,978 - INFO - Starting Transformation Phase...
+2026-02-15 18:22:35,978 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:24:46,409 - INFO - Starting Transformation Phase...
+2026-02-15 18:24:46,409 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:29:39,320 - INFO - Starting Transformation Phase...
+2026-02-15 18:29:39,320 - INFO - Processing file: H
+2026-02-15 18:29:39,320 - ERROR - File not found: H
+2026-02-15 18:29:39,320 - INFO - Processing file: o
+2026-02-15 18:29:39,320 - ERROR - File not found: o
+2026-02-15 18:29:39,320 - INFO - Processing file: u
+2026-02-15 18:29:39,320 - ERROR - File not found: u
+2026-02-15 18:29:39,320 - INFO - Processing file: s
+2026-02-15 18:29:39,320 - ERROR - File not found: s
+2026-02-15 18:29:39,320 - INFO - Processing file: i
+2026-02-15 18:29:39,320 - ERROR - File not found: i
+2026-02-15 18:29:39,320 - INFO - Processing file: n
+2026-02-15 18:29:39,320 - ERROR - File not found: n
+2026-02-15 18:29:39,320 - INFO - Processing file: g
+2026-02-15 18:29:39,320 - ERROR - File not found: g
+2026-02-15 18:29:39,320 - INFO - Processing file: _
+2026-02-15 18:29:39,320 - ERROR - File not found: _
+2026-02-15 18:29:39,320 - INFO - Processing file: Z
+2026-02-15 18:29:39,320 - ERROR - File not found: Z
+2026-02-15 18:29:39,320 - INFO - Processing file: o
+2026-02-15 18:29:39,320 - ERROR - File not found: o
+2026-02-15 18:29:39,320 - INFO - Processing file: n
+2026-02-15 18:29:39,320 - ERROR - File not found: n
+2026-02-15 18:29:39,320 - INFO - Processing file: i
+2026-02-15 18:29:39,320 - ERROR - File not found: i
+2026-02-15 18:29:39,320 - INFO - Processing file: n
+2026-02-15 18:29:39,320 - ERROR - File not found: n
+2026-02-15 18:29:39,320 - INFO - Processing file: g
+2026-02-15 18:29:39,320 - ERROR - File not found: g
+2026-02-15 18:29:39,320 - INFO - Processing file: _
+2026-02-15 18:29:39,320 - ERROR - File not found: _
+2026-02-15 18:29:39,320 - INFO - Processing file: U
+2026-02-15 18:29:39,320 - ERROR - File not found: U
+2026-02-15 18:29:39,320 - INFO - Processing file: p
+2026-02-15 18:29:39,320 - ERROR - File not found: p
+2026-02-15 18:29:39,320 - INFO - Processing file: d
+2026-02-15 18:29:39,320 - ERROR - File not found: d
+2026-02-15 18:29:39,320 - INFO - Processing file: a
+2026-02-15 18:29:39,320 - ERROR - File not found: a
+2026-02-15 18:29:39,320 - INFO - Processing file: t
+2026-02-15 18:29:39,320 - ERROR - File not found: t
+2026-02-15 18:29:39,320 - INFO - Processing file: e
+2026-02-15 18:29:39,320 - ERROR - File not found: e
+2026-02-15 18:29:39,320 - INFO - Processing file: _
+2026-02-15 18:29:39,320 - ERROR - File not found: _
+2026-02-15 18:29:39,320 - INFO - Processing file: Q
+2026-02-15 18:29:39,320 - ERROR - File not found: Q
+2026-02-15 18:29:39,320 - INFO - Processing file: 1
+2026-02-15 18:29:39,320 - ERROR - File not found: 1
+2026-02-15 18:29:39,320 - INFO - Processing file: _
+2026-02-15 18:29:39,320 - ERROR - File not found: _
+2026-02-15 18:29:39,320 - INFO - Processing file: 2
+2026-02-15 18:29:39,320 - ERROR - File not found: 2
+2026-02-15 18:29:39,320 - INFO - Processing file: 0
+2026-02-15 18:29:39,320 - ERROR - File not found: 0
+2026-02-15 18:29:39,320 - INFO - Processing file: 2
+2026-02-15 18:29:39,320 - ERROR - File not found: 2
+2026-02-15 18:29:39,320 - INFO - Processing file: 4
+2026-02-15 18:29:39,320 - ERROR - File not found: 4
+2026-02-15 18:29:39,320 - INFO - Processing file: _
+2026-02-15 18:29:39,320 - ERROR - File not found: _
+2026-02-15 18:29:39,320 - INFO - Processing file: e
+2026-02-15 18:29:39,323 - ERROR - File not found: e
+2026-02-15 18:29:39,323 - INFO - Processing file: x
+2026-02-15 18:29:39,323 - ERROR - File not found: x
+2026-02-15 18:29:39,323 - INFO - Processing file: t
+2026-02-15 18:29:39,323 - ERROR - File not found: t
+2026-02-15 18:29:39,323 - INFO - Processing file: r
+2026-02-15 18:29:39,323 - ERROR - File not found: r
+2026-02-15 18:29:39,323 - INFO - Processing file: a
+2026-02-15 18:29:39,323 - ERROR - File not found: a
+2026-02-15 18:29:39,323 - INFO - Processing file: c
+2026-02-15 18:29:39,323 - ERROR - File not found: c
+2026-02-15 18:29:39,323 - INFO - Processing file: t
+2026-02-15 18:29:39,323 - ERROR - File not found: t
+2026-02-15 18:29:39,323 - INFO - Processing file: e
+2026-02-15 18:29:39,323 - ERROR - File not found: e
+2026-02-15 18:29:39,323 - INFO - Processing file: d
+2026-02-15 18:29:39,323 - ERROR - File not found: d
+2026-02-15 18:29:39,323 - INFO - Processing file: .
+2026-02-15 18:30:53,775 - INFO - Starting Transformation Phase...
+2026-02-15 18:30:53,775 - INFO - Processing file: H
+2026-02-15 18:30:53,775 - ERROR - File not found: H
+2026-02-15 18:30:53,775 - INFO - Processing file: o
+2026-02-15 18:30:53,775 - ERROR - File not found: o
+2026-02-15 18:30:53,775 - INFO - Processing file: u
+2026-02-15 18:30:53,775 - ERROR - File not found: u
+2026-02-15 18:30:53,775 - INFO - Processing file: s
+2026-02-15 18:30:53,775 - ERROR - File not found: s
+2026-02-15 18:30:53,775 - INFO - Processing file: i
+2026-02-15 18:30:53,775 - ERROR - File not found: i
+2026-02-15 18:30:53,775 - INFO - Processing file: n
+2026-02-15 18:30:53,775 - ERROR - File not found: n
+2026-02-15 18:30:53,775 - INFO - Processing file: g
+2026-02-15 18:30:53,775 - ERROR - File not found: g
+2026-02-15 18:30:53,775 - INFO - Processing file: _
+2026-02-15 18:30:53,775 - ERROR - File not found: _
+2026-02-15 18:30:53,775 - INFO - Processing file: Z
+2026-02-15 18:30:53,775 - ERROR - File not found: Z
+2026-02-15 18:30:53,775 - INFO - Processing file: o
+2026-02-15 18:30:53,775 - ERROR - File not found: o
+2026-02-15 18:30:53,775 - INFO - Processing file: n
+2026-02-15 18:30:53,775 - ERROR - File not found: n
+2026-02-15 18:30:53,775 - INFO - Processing file: i
+2026-02-15 18:30:53,775 - ERROR - File not found: i
+2026-02-15 18:30:53,775 - INFO - Processing file: n
+2026-02-15 18:30:53,775 - ERROR - File not found: n
+2026-02-15 18:30:53,775 - INFO - Processing file: g
+2026-02-15 18:30:53,775 - ERROR - File not found: g
+2026-02-15 18:30:53,775 - INFO - Processing file: _
+2026-02-15 18:30:53,775 - ERROR - File not found: _
+2026-02-15 18:30:53,775 - INFO - Processing file: U
+2026-02-15 18:30:53,775 - ERROR - File not found: U
+2026-02-15 18:30:53,775 - INFO - Processing file: p
+2026-02-15 18:30:53,775 - ERROR - File not found: p
+2026-02-15 18:30:53,775 - INFO - Processing file: d
+2026-02-15 18:30:53,775 - ERROR - File not found: d
+2026-02-15 18:30:53,775 - INFO - Processing file: a
+2026-02-15 18:30:53,775 - ERROR - File not found: a
+2026-02-15 18:30:53,775 - INFO - Processing file: t
+2026-02-15 18:30:53,775 - ERROR - File not found: t
+2026-02-15 18:30:53,775 - INFO - Processing file: e
+2026-02-15 18:30:53,775 - ERROR - File not found: e
+2026-02-15 18:30:53,775 - INFO - Processing file: _
+2026-02-15 18:30:53,775 - ERROR - File not found: _
+2026-02-15 18:30:53,775 - INFO - Processing file: Q
+2026-02-15 18:30:53,775 - ERROR - File not found: Q
+2026-02-15 18:30:53,775 - INFO - Processing file: 1
+2026-02-15 18:30:53,775 - ERROR - File not found: 1
+2026-02-15 18:30:53,775 - INFO - Processing file: _
+2026-02-15 18:30:53,775 - ERROR - File not found: _
+2026-02-15 18:30:53,775 - INFO - Processing file: 2
+2026-02-15 18:30:53,775 - ERROR - File not found: 2
+2026-02-15 18:30:53,775 - INFO - Processing file: 0
+2026-02-15 18:30:53,775 - ERROR - File not found: 0
+2026-02-15 18:30:53,775 - INFO - Processing file: 2
+2026-02-15 18:30:53,775 - ERROR - File not found: 2
+2026-02-15 18:30:53,775 - INFO - Processing file: 4
+2026-02-15 18:30:53,775 - ERROR - File not found: 4
+2026-02-15 18:30:53,775 - INFO - Processing file: _
+2026-02-15 18:30:53,775 - ERROR - File not found: _
+2026-02-15 18:30:53,775 - INFO - Processing file: e
+2026-02-15 18:30:53,775 - ERROR - File not found: e
+2026-02-15 18:30:53,775 - INFO - Processing file: x
+2026-02-15 18:30:53,775 - ERROR - File not found: x
+2026-02-15 18:30:53,775 - INFO - Processing file: t
+2026-02-15 18:30:53,775 - ERROR - File not found: t
+2026-02-15 18:30:53,775 - INFO - Processing file: r
+2026-02-15 18:30:53,775 - ERROR - File not found: r
+2026-02-15 18:30:53,775 - INFO - Processing file: a
+2026-02-15 18:30:53,775 - ERROR - File not found: a
+2026-02-15 18:30:53,775 - INFO - Processing file: c
+2026-02-15 18:30:53,775 - ERROR - File not found: c
+2026-02-15 18:30:53,775 - INFO - Processing file: t
+2026-02-15 18:30:53,775 - ERROR - File not found: t
+2026-02-15 18:30:53,775 - INFO - Processing file: e
+2026-02-15 18:30:53,775 - ERROR - File not found: e
+2026-02-15 18:30:53,775 - INFO - Processing file: d
+2026-02-15 18:30:53,775 - ERROR - File not found: d
+2026-02-15 18:30:53,775 - INFO - Processing file: .
+2026-02-15 18:33:05,861 - INFO - Starting Transformation Phase...
+2026-02-15 18:33:05,861 - INFO - Processing file: H
+2026-02-15 18:33:05,861 - ERROR - File not found: H
+2026-02-15 18:33:05,861 - INFO - Processing file: o
+2026-02-15 18:33:05,861 - ERROR - File not found: o
+2026-02-15 18:33:05,861 - INFO - Processing file: u
+2026-02-15 18:33:05,861 - ERROR - File not found: u
+2026-02-15 18:33:05,861 - INFO - Processing file: s
+2026-02-15 18:33:05,861 - ERROR - File not found: s
+2026-02-15 18:33:05,861 - INFO - Processing file: i
+2026-02-15 18:33:05,861 - ERROR - File not found: i
+2026-02-15 18:33:05,861 - INFO - Processing file: n
+2026-02-15 18:33:05,861 - ERROR - File not found: n
+2026-02-15 18:33:05,861 - INFO - Processing file: g
+2026-02-15 18:33:05,861 - ERROR - File not found: g
+2026-02-15 18:33:05,861 - INFO - Processing file: _
+2026-02-15 18:33:05,861 - ERROR - File not found: _
+2026-02-15 18:33:05,861 - INFO - Processing file: Z
+2026-02-15 18:33:05,861 - ERROR - File not found: Z
+2026-02-15 18:33:05,864 - INFO - Processing file: o
+2026-02-15 18:33:05,864 - ERROR - File not found: o
+2026-02-15 18:33:05,864 - INFO - Processing file: n
+2026-02-15 18:33:05,864 - ERROR - File not found: n
+2026-02-15 18:33:05,864 - INFO - Processing file: i
+2026-02-15 18:33:05,864 - ERROR - File not found: i
+2026-02-15 18:33:05,864 - INFO - Processing file: n
+2026-02-15 18:33:05,864 - ERROR - File not found: n
+2026-02-15 18:33:05,864 - INFO - Processing file: g
+2026-02-15 18:33:05,864 - ERROR - File not found: g
+2026-02-15 18:33:05,864 - INFO - Processing file: _
+2026-02-15 18:33:05,864 - ERROR - File not found: _
+2026-02-15 18:33:05,864 - INFO - Processing file: U
+2026-02-15 18:33:05,864 - ERROR - File not found: U
+2026-02-15 18:33:05,864 - INFO - Processing file: p
+2026-02-15 18:33:05,864 - ERROR - File not found: p
+2026-02-15 18:33:05,864 - INFO - Processing file: d
+2026-02-15 18:33:05,864 - ERROR - File not found: d
+2026-02-15 18:33:05,864 - INFO - Processing file: a
+2026-02-15 18:33:05,864 - ERROR - File not found: a
+2026-02-15 18:33:05,864 - INFO - Processing file: t
+2026-02-15 18:33:05,864 - ERROR - File not found: t
+2026-02-15 18:33:05,864 - INFO - Processing file: e
+2026-02-15 18:33:05,864 - ERROR - File not found: e
+2026-02-15 18:33:05,864 - INFO - Processing file: _
+2026-02-15 18:33:05,864 - ERROR - File not found: _
+2026-02-15 18:33:05,864 - INFO - Processing file: Q
+2026-02-15 18:33:05,864 - ERROR - File not found: Q
+2026-02-15 18:33:05,864 - INFO - Processing file: 1
+2026-02-15 18:33:05,864 - ERROR - File not found: 1
+2026-02-15 18:33:05,864 - INFO - Processing file: _
+2026-02-15 18:33:05,864 - ERROR - File not found: _
+2026-02-15 18:33:05,864 - INFO - Processing file: 2
+2026-02-15 18:33:05,864 - ERROR - File not found: 2
+2026-02-15 18:33:05,864 - INFO - Processing file: 0
+2026-02-15 18:33:05,864 - ERROR - File not found: 0
+2026-02-15 18:33:05,864 - INFO - Processing file: 2
+2026-02-15 18:33:05,864 - ERROR - File not found: 2
+2026-02-15 18:33:05,864 - INFO - Processing file: 4
+2026-02-15 18:33:05,864 - ERROR - File not found: 4
+2026-02-15 18:33:05,864 - INFO - Processing file: _
+2026-02-15 18:33:05,866 - ERROR - File not found: _
+2026-02-15 18:33:05,866 - INFO - Processing file: e
+2026-02-15 18:33:05,866 - ERROR - File not found: e
+2026-02-15 18:33:05,866 - INFO - Processing file: x
+2026-02-15 18:33:05,866 - ERROR - File not found: x
+2026-02-15 18:33:05,866 - INFO - Processing file: t
+2026-02-15 18:33:05,866 - ERROR - File not found: t
+2026-02-15 18:33:05,866 - INFO - Processing file: r
+2026-02-15 18:33:05,866 - ERROR - File not found: r
+2026-02-15 18:33:05,866 - INFO - Processing file: a
+2026-02-15 18:33:05,866 - ERROR - File not found: a
+2026-02-15 18:33:05,866 - INFO - Processing file: c
+2026-02-15 18:33:05,866 - ERROR - File not found: c
+2026-02-15 18:33:05,866 - INFO - Processing file: t
+2026-02-15 18:33:05,866 - ERROR - File not found: t
+2026-02-15 18:33:05,866 - INFO - Processing file: e
+2026-02-15 18:33:05,866 - ERROR - File not found: e
+2026-02-15 18:33:05,866 - INFO - Processing file: d
+2026-02-15 18:33:05,866 - ERROR - File not found: d
+2026-02-15 18:33:05,866 - INFO - Processing file: .
+2026-02-15 18:35:48,668 - INFO - Starting Transformation Phase...
+2026-02-15 18:35:48,668 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 18:35:48,671 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:35:48,671 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 18:36:47,523 - INFO - Starting Transformation Phase...
+2026-02-15 18:36:47,524 - INFO - Processing file: H
+2026-02-15 18:36:47,524 - ERROR - File not found: H
+2026-02-15 18:36:47,524 - INFO - Processing file: o
+2026-02-15 18:36:47,524 - ERROR - File not found: o
+2026-02-15 18:36:47,524 - INFO - Processing file: u
+2026-02-15 18:36:47,524 - ERROR - File not found: u
+2026-02-15 18:36:47,524 - INFO - Processing file: s
+2026-02-15 18:36:47,525 - ERROR - File not found: s
+2026-02-15 18:36:47,525 - INFO - Processing file: i
+2026-02-15 18:36:47,525 - ERROR - File not found: i
+2026-02-15 18:36:47,525 - INFO - Processing file: n
+2026-02-15 18:36:47,525 - ERROR - File not found: n
+2026-02-15 18:36:47,525 - INFO - Processing file: g
+2026-02-15 18:36:47,525 - ERROR - File not found: g
+2026-02-15 18:36:47,525 - INFO - Processing file: _
+2026-02-15 18:36:47,525 - ERROR - File not found: _
+2026-02-15 18:36:47,525 - INFO - Processing file: Z
+2026-02-15 18:36:47,525 - ERROR - File not found: Z
+2026-02-15 18:36:47,525 - INFO - Processing file: o
+2026-02-15 18:36:47,525 - ERROR - File not found: o
+2026-02-15 18:36:47,525 - INFO - Processing file: n
+2026-02-15 18:36:47,525 - ERROR - File not found: n
+2026-02-15 18:36:47,525 - INFO - Processing file: i
+2026-02-15 18:36:47,525 - ERROR - File not found: i
+2026-02-15 18:36:47,525 - INFO - Processing file: n
+2026-02-15 18:36:47,525 - ERROR - File not found: n
+2026-02-15 18:36:47,525 - INFO - Processing file: g
+2026-02-15 18:36:47,527 - ERROR - File not found: g
+2026-02-15 18:36:47,527 - INFO - Processing file: _
+2026-02-15 18:36:47,527 - ERROR - File not found: _
+2026-02-15 18:36:47,527 - INFO - Processing file: U
+2026-02-15 18:36:47,527 - ERROR - File not found: U
+2026-02-15 18:36:47,527 - INFO - Processing file: p
+2026-02-15 18:36:47,527 - ERROR - File not found: p
+2026-02-15 18:36:47,527 - INFO - Processing file: d
+2026-02-15 18:36:47,527 - ERROR - File not found: d
+2026-02-15 18:36:47,527 - INFO - Processing file: a
+2026-02-15 18:36:47,527 - ERROR - File not found: a
+2026-02-15 18:36:47,527 - INFO - Processing file: t
+2026-02-15 18:36:47,527 - ERROR - File not found: t
+2026-02-15 18:36:47,527 - INFO - Processing file: e
+2026-02-15 18:36:47,527 - ERROR - File not found: e
+2026-02-15 18:36:47,527 - INFO - Processing file: _
+2026-02-15 18:36:47,527 - ERROR - File not found: _
+2026-02-15 18:36:47,527 - INFO - Processing file: Q
+2026-02-15 18:36:47,527 - ERROR - File not found: Q
+2026-02-15 18:36:47,527 - INFO - Processing file: 1
+2026-02-15 18:36:47,527 - ERROR - File not found: 1
+2026-02-15 18:36:47,527 - INFO - Processing file: _
+2026-02-15 18:36:47,527 - ERROR - File not found: _
+2026-02-15 18:36:47,527 - INFO - Processing file: 2
+2026-02-15 18:36:47,527 - ERROR - File not found: 2
+2026-02-15 18:36:47,527 - INFO - Processing file: 0
+2026-02-15 18:36:47,527 - ERROR - File not found: 0
+2026-02-15 18:36:47,529 - INFO - Processing file: 2
+2026-02-15 18:36:47,529 - ERROR - File not found: 2
+2026-02-15 18:36:47,529 - INFO - Processing file: 4
+2026-02-15 18:36:47,529 - ERROR - File not found: 4
+2026-02-15 18:36:47,529 - INFO - Processing file: _
+2026-02-15 18:36:47,529 - ERROR - File not found: _
+2026-02-15 18:36:47,529 - INFO - Processing file: e
+2026-02-15 18:36:47,529 - ERROR - File not found: e
+2026-02-15 18:36:47,529 - INFO - Processing file: x
+2026-02-15 18:36:47,529 - ERROR - File not found: x
+2026-02-15 18:36:47,529 - INFO - Processing file: t
+2026-02-15 18:36:47,529 - ERROR - File not found: t
+2026-02-15 18:36:47,529 - INFO - Processing file: r
+2026-02-15 18:36:47,529 - ERROR - File not found: r
+2026-02-15 18:36:47,529 - INFO - Processing file: a
+2026-02-15 18:36:47,529 - ERROR - File not found: a
+2026-02-15 18:36:47,529 - INFO - Processing file: c
+2026-02-15 18:36:47,529 - ERROR - File not found: c
+2026-02-15 18:36:47,529 - INFO - Processing file: t
+2026-02-15 18:36:47,529 - ERROR - File not found: t
+2026-02-15 18:36:47,529 - INFO - Processing file: e
+2026-02-15 18:36:47,529 - ERROR - File not found: e
+2026-02-15 18:36:47,529 - INFO - Processing file: d
+2026-02-15 18:36:47,529 - ERROR - File not found: d
+2026-02-15 18:36:47,529 - INFO - Processing file: .
+2026-02-15 18:40:05,504 - INFO - Starting Transformation Phase...
+2026-02-15 18:40:05,504 - INFO - Processing file: H
+2026-02-15 18:40:05,504 - ERROR - File not found: H
+2026-02-15 18:40:05,504 - INFO - Processing file: o
+2026-02-15 18:40:05,504 - ERROR - File not found: o
+2026-02-15 18:40:05,504 - INFO - Processing file: u
+2026-02-15 18:40:05,504 - ERROR - File not found: u
+2026-02-15 18:40:05,504 - INFO - Processing file: s
+2026-02-15 18:40:05,504 - ERROR - File not found: s
+2026-02-15 18:40:05,504 - INFO - Processing file: i
+2026-02-15 18:40:05,504 - ERROR - File not found: i
+2026-02-15 18:40:05,504 - INFO - Processing file: n
+2026-02-15 18:40:05,504 - ERROR - File not found: n
+2026-02-15 18:40:05,504 - INFO - Processing file: g
+2026-02-15 18:40:05,504 - ERROR - File not found: g
+2026-02-15 18:40:05,504 - INFO - Processing file: _
+2026-02-15 18:40:05,504 - ERROR - File not found: _
+2026-02-15 18:40:05,504 - INFO - Processing file: Z
+2026-02-15 18:40:05,504 - ERROR - File not found: Z
+2026-02-15 18:40:05,504 - INFO - Processing file: o
+2026-02-15 18:40:05,509 - ERROR - File not found: o
+2026-02-15 18:40:05,509 - INFO - Processing file: n
+2026-02-15 18:40:05,509 - ERROR - File not found: n
+2026-02-15 18:40:05,509 - INFO - Processing file: i
+2026-02-15 18:40:05,509 - ERROR - File not found: i
+2026-02-15 18:40:05,509 - INFO - Processing file: n
+2026-02-15 18:40:05,509 - ERROR - File not found: n
+2026-02-15 18:40:05,509 - INFO - Processing file: g
+2026-02-15 18:40:05,509 - ERROR - File not found: g
+2026-02-15 18:40:05,509 - INFO - Processing file: _
+2026-02-15 18:40:05,509 - ERROR - File not found: _
+2026-02-15 18:40:05,509 - INFO - Processing file: U
+2026-02-15 18:40:05,509 - ERROR - File not found: U
+2026-02-15 18:40:05,509 - INFO - Processing file: p
+2026-02-15 18:40:05,509 - ERROR - File not found: p
+2026-02-15 18:40:05,509 - INFO - Processing file: d
+2026-02-15 18:40:05,509 - ERROR - File not found: d
+2026-02-15 18:40:05,509 - INFO - Processing file: a
+2026-02-15 18:40:05,509 - ERROR - File not found: a
+2026-02-15 18:40:05,509 - INFO - Processing file: t
+2026-02-15 18:40:05,509 - ERROR - File not found: t
+2026-02-15 18:40:05,509 - INFO - Processing file: e
+2026-02-15 18:40:05,509 - ERROR - File not found: e
+2026-02-15 18:40:05,509 - INFO - Processing file: _
+2026-02-15 18:40:05,509 - ERROR - File not found: _
+2026-02-15 18:40:05,509 - INFO - Processing file: Q
+2026-02-15 18:40:05,509 - ERROR - File not found: Q
+2026-02-15 18:40:05,509 - INFO - Processing file: 1
+2026-02-15 18:40:05,509 - ERROR - File not found: 1
+2026-02-15 18:40:05,509 - INFO - Processing file: _
+2026-02-15 18:40:05,509 - ERROR - File not found: _
+2026-02-15 18:40:05,509 - INFO - Processing file: 2
+2026-02-15 18:40:05,509 - ERROR - File not found: 2
+2026-02-15 18:40:05,509 - INFO - Processing file: 0
+2026-02-15 18:40:05,510 - ERROR - File not found: 0
+2026-02-15 18:40:05,510 - INFO - Processing file: 2
+2026-02-15 18:40:05,510 - ERROR - File not found: 2
+2026-02-15 18:40:05,510 - INFO - Processing file: 4
+2026-02-15 18:40:05,510 - ERROR - File not found: 4
+2026-02-15 18:40:05,510 - INFO - Processing file: _
+2026-02-15 18:40:05,510 - ERROR - File not found: _
+2026-02-15 18:40:05,510 - INFO - Processing file: e
+2026-02-15 18:40:05,511 - ERROR - File not found: e
+2026-02-15 18:40:05,511 - INFO - Processing file: x
+2026-02-15 18:40:05,511 - ERROR - File not found: x
+2026-02-15 18:40:05,511 - INFO - Processing file: t
+2026-02-15 18:40:05,511 - ERROR - File not found: t
+2026-02-15 18:40:05,511 - INFO - Processing file: r
+2026-02-15 18:40:05,511 - ERROR - File not found: r
+2026-02-15 18:40:05,511 - INFO - Processing file: a
+2026-02-15 18:40:05,511 - ERROR - File not found: a
+2026-02-15 18:40:05,511 - INFO - Processing file: c
+2026-02-15 18:40:05,511 - ERROR - File not found: c
+2026-02-15 18:40:05,511 - INFO - Processing file: t
+2026-02-15 18:40:05,511 - ERROR - File not found: t
+2026-02-15 18:40:05,511 - INFO - Processing file: e
+2026-02-15 18:40:05,511 - ERROR - File not found: e
+2026-02-15 18:40:05,511 - INFO - Processing file: d
+2026-02-15 18:40:05,511 - ERROR - File not found: d
+2026-02-15 18:40:05,511 - INFO - Processing file: .
+2026-02-15 18:40:49,814 - INFO - Starting Transformation Phase...
+2026-02-15 18:40:49,814 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 18:40:49,814 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:40:49,814 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 18:42:22,097 - INFO - Starting Transformation Phase...
+2026-02-15 18:42:39,014 - INFO - Starting Transformation Phase...
+2026-02-15 18:44:01,798 - INFO - Starting Transformation Phase...
+2026-02-15 18:44:01,798 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 18:46:49,218 - INFO - Starting Transformation Phase...
+2026-02-15 18:46:49,218 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 18:48:59,246 - INFO - Starting Transformation Phase...
+2026-02-15 18:48:59,246 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 18:49:10,400 - INFO - Starting Transformation Phase...
+2026-02-15 18:49:10,400 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 18:50:35,633 - INFO - Starting Transformation Phase...
+2026-02-15 18:50:35,633 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 18:50:50,596 - INFO - Starting Transformation Phase...
+2026-02-15 18:50:50,596 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 18:51:17,743 - INFO - Starting Transformation Phase...
+2026-02-15 18:51:17,743 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 18:52:21,871 - INFO - Starting Transformation Phase...
+2026-02-15 18:52:21,871 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 18:55:34,172 - INFO - Starting Transformation Phase...
+2026-02-15 18:55:34,174 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 18:55:39,610 - INFO - Starting Transformation Phase...
+2026-02-15 18:55:39,610 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 18:56:30,304 - INFO - Starting Transformation Phase...
+2026-02-15 18:56:30,304 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 18:57:57,600 - INFO - Starting Transformation Phase...
+2026-02-15 18:57:57,600 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 18:58:09,231 - INFO - Starting Transformation Phase...
+2026-02-15 18:58:09,231 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:04:49,256 - INFO - Starting Transformation Phase...
+2026-02-15 19:04:49,256 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:14:12,826 - INFO - Starting Transformation Phase...
+2026-02-15 19:14:12,826 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:14:33,582 - INFO - Starting Transformation Phase...
+2026-02-15 19:14:33,582 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:14:52,071 - INFO - Starting Transformation Phase...
+2026-02-15 19:14:52,071 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:17:54,709 - INFO - Starting Transformation Phase...
+2026-02-15 19:17:54,709 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:18:55,980 - INFO - Starting Transformation Phase...
+2026-02-15 19:18:55,980 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:19:55,352 - INFO - Starting Transformation Phase...
+2026-02-15 19:19:55,352 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:20:03,985 - INFO - Starting Transformation Phase...
+2026-02-15 19:20:03,985 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:22:08,872 - INFO - Starting Transformation Phase...
+2026-02-15 19:22:08,872 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:23:11,166 - INFO - Starting Transformation Phase...
+2026-02-15 19:23:11,166 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:26:11,467 - INFO - Starting Transformation Phase...
+2026-02-15 19:26:11,471 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:26:47,256 - INFO - Starting Transformation Phase...
+2026-02-15 19:26:47,256 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:27:38,210 - INFO - Starting Transformation Phase...
+2026-02-15 19:27:38,210 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:29:04,820 - INFO - Starting Transformation Phase...
+2026-02-15 19:29:04,820 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:30:16,661 - INFO - Starting Transformation Phase...
+2026-02-15 19:30:16,661 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:30:30,685 - INFO - Starting Transformation Phase...
+2026-02-15 19:30:30,685 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 19:30:34,630 - INFO - Starting Transformation Phase...
+2026-02-15 19:30:34,630 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:30:39,078 - INFO - Starting Transformation Phase...
+2026-02-15 19:30:39,081 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:32:45,121 - INFO - Starting Transformation Phase...
+2026-02-15 19:32:45,121 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:35:56,301 - INFO - Starting Transformation Phase...
+2026-02-15 19:35:56,301 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:36:29,004 - INFO - Starting Transformation Phase...
+2026-02-15 19:36:29,017 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:36:37,230 - INFO - Starting Transformation Phase...
+2026-02-15 19:36:37,230 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:38:28,683 - INFO - Starting Transformation Phase...
+2026-02-15 19:38:28,683 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:41:30,571 - INFO - Starting Transformation Phase...
+2026-02-15 19:41:30,571 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:43:05,722 - INFO - Starting Transformation Phase...
+2026-02-15 19:43:05,722 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:43:45,045 - INFO - Starting Transformation Phase...
+2026-02-15 19:43:45,045 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:43:45,045 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:44:22,004 - INFO - Starting Transformation Phase...
+2026-02-15 19:44:22,004 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:44:22,004 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:54:33,144 - INFO - Starting Transformation Phase...
+2026-02-15 19:54:33,144 - INFO - Processing file: I
+2026-02-15 19:54:33,144 - ERROR - File not found: I
+2026-02-15 19:54:33,144 - INFO - Processing file: n
+2026-02-15 19:54:33,144 - ERROR - File not found: n
+2026-02-15 19:54:33,144 - INFO - Processing file: f
+2026-02-15 19:54:33,144 - ERROR - File not found: f
+2026-02-15 19:54:33,144 - INFO - Processing file: r
+2026-02-15 19:54:33,144 - ERROR - File not found: r
+2026-02-15 19:54:33,144 - INFO - Processing file: a
+2026-02-15 19:54:33,144 - ERROR - File not found: a
+2026-02-15 19:54:33,144 - INFO - Processing file: s
+2026-02-15 19:54:33,144 - ERROR - File not found: s
+2026-02-15 19:54:33,144 - INFO - Processing file: t
+2026-02-15 19:54:33,144 - ERROR - File not found: t
+2026-02-15 19:54:33,144 - INFO - Processing file: r
+2026-02-15 19:54:33,144 - ERROR - File not found: r
+2026-02-15 19:54:33,144 - INFO - Processing file: u
+2026-02-15 19:54:33,144 - ERROR - File not found: u
+2026-02-15 19:54:33,144 - INFO - Processing file: c
+2026-02-15 19:54:33,144 - ERROR - File not found: c
+2026-02-15 19:54:33,144 - INFO - Processing file: t
+2026-02-15 19:54:33,144 - ERROR - File not found: t
+2026-02-15 19:54:33,144 - INFO - Processing file: u
+2026-02-15 19:54:33,144 - ERROR - File not found: u
+2026-02-15 19:54:33,144 - INFO - Processing file: r
+2026-02-15 19:54:33,144 - ERROR - File not found: r
+2026-02-15 19:54:33,144 - INFO - Processing file: e
+2026-02-15 19:54:33,144 - ERROR - File not found: e
+2026-02-15 19:54:33,144 - INFO - Processing file: _
+2026-02-15 19:54:33,144 - ERROR - File not found: _
+2026-02-15 19:54:33,144 - INFO - Processing file: T
+2026-02-15 19:54:33,144 - ERROR - File not found: T
+2026-02-15 19:54:33,144 - INFO - Processing file: r
+2026-02-15 19:54:33,144 - ERROR - File not found: r
+2026-02-15 19:54:33,144 - INFO - Processing file: a
+2026-02-15 19:54:33,144 - ERROR - File not found: a
+2026-02-15 19:54:33,144 - INFO - Processing file: n
+2026-02-15 19:54:33,144 - ERROR - File not found: n
+2026-02-15 19:54:33,144 - INFO - Processing file: s
+2026-02-15 19:54:33,144 - ERROR - File not found: s
+2026-02-15 19:54:33,144 - INFO - Processing file: p
+2026-02-15 19:54:33,144 - ERROR - File not found: p
+2026-02-15 19:54:33,144 - INFO - Processing file: o
+2026-02-15 19:54:33,144 - ERROR - File not found: o
+2026-02-15 19:54:33,144 - INFO - Processing file: r
+2026-02-15 19:54:33,144 - ERROR - File not found: r
+2026-02-15 19:54:33,144 - INFO - Processing file: t
+2026-02-15 19:54:33,144 - ERROR - File not found: t
+2026-02-15 19:54:33,144 - INFO - Processing file: a
+2026-02-15 19:54:33,144 - ERROR - File not found: a
+2026-02-15 19:54:33,144 - INFO - Processing file: t
+2026-02-15 19:54:33,144 - ERROR - File not found: t
+2026-02-15 19:54:33,144 - INFO - Processing file: i
+2026-02-15 19:54:33,144 - ERROR - File not found: i
+2026-02-15 19:54:33,144 - INFO - Processing file: o
+2026-02-15 19:54:33,144 - ERROR - File not found: o
+2026-02-15 19:54:33,144 - INFO - Processing file: n
+2026-02-15 19:54:33,144 - ERROR - File not found: n
+2026-02-15 19:54:33,144 - INFO - Processing file: _
+2026-02-15 19:54:33,144 - ERROR - File not found: _
+2026-02-15 19:54:33,144 - INFO - Processing file: S
+2026-02-15 19:54:33,144 - ERROR - File not found: S
+2026-02-15 19:54:33,144 - INFO - Processing file: u
+2026-02-15 19:54:33,144 - ERROR - File not found: u
+2026-02-15 19:54:33,144 - INFO - Processing file: m
+2026-02-15 19:54:33,144 - ERROR - File not found: m
+2026-02-15 19:54:33,144 - INFO - Processing file: m
+2026-02-15 19:54:33,144 - ERROR - File not found: m
+2026-02-15 19:54:33,144 - INFO - Processing file: a
+2026-02-15 19:54:33,144 - ERROR - File not found: a
+2026-02-15 19:54:33,144 - INFO - Processing file: r
+2026-02-15 19:54:33,144 - ERROR - File not found: r
+2026-02-15 19:54:33,144 - INFO - Processing file: y
+2026-02-15 19:54:33,144 - ERROR - File not found: y
+2026-02-15 19:54:33,144 - INFO - Processing file: _
+2026-02-15 19:54:33,144 - ERROR - File not found: _
+2026-02-15 19:54:33,144 - INFO - Processing file: 2
+2026-02-15 19:54:33,144 - ERROR - File not found: 2
+2026-02-15 19:54:33,144 - INFO - Processing file: 0
+2026-02-15 19:54:33,144 - ERROR - File not found: 0
+2026-02-15 19:54:33,144 - INFO - Processing file: 2
+2026-02-15 19:54:33,144 - ERROR - File not found: 2
+2026-02-15 19:54:33,144 - INFO - Processing file: 4
+2026-02-15 19:54:33,144 - ERROR - File not found: 4
+2026-02-15 19:54:33,144 - INFO - Processing file: _
+2026-02-15 19:54:33,144 - ERROR - File not found: _
+2026-02-15 19:54:33,144 - INFO - Processing file: e
+2026-02-15 19:54:33,144 - ERROR - File not found: e
+2026-02-15 19:54:33,144 - INFO - Processing file: x
+2026-02-15 19:54:33,151 - ERROR - File not found: x
+2026-02-15 19:54:33,151 - INFO - Processing file: t
+2026-02-15 19:54:33,151 - ERROR - File not found: t
+2026-02-15 19:54:33,151 - INFO - Processing file: r
+2026-02-15 19:54:33,151 - ERROR - File not found: r
+2026-02-15 19:54:33,151 - INFO - Processing file: a
+2026-02-15 19:54:33,151 - ERROR - File not found: a
+2026-02-15 19:54:33,151 - INFO - Processing file: c
+2026-02-15 19:54:33,151 - ERROR - File not found: c
+2026-02-15 19:54:33,151 - INFO - Processing file: t
+2026-02-15 19:54:33,151 - ERROR - File not found: t
+2026-02-15 19:54:33,151 - INFO - Processing file: e
+2026-02-15 19:54:33,151 - ERROR - File not found: e
+2026-02-15 19:54:33,151 - INFO - Processing file: d
+2026-02-15 19:54:33,151 - ERROR - File not found: d
+2026-02-15 19:54:33,151 - INFO - Processing file: .
+2026-02-15 19:55:31,694 - INFO - Starting Transformation Phase...
+2026-02-15 19:55:31,696 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 19:55:31,696 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:55:31,699 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 19:58:24,198 - INFO - Starting Transformation Phase...
+2026-02-15 19:58:24,198 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 19:58:24,198 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 19:58:24,209 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:00:42,227 - INFO - Starting Transformation Phase...
+2026-02-15 20:00:42,232 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:00:42,232 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:00:42,234 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:01:56,325 - INFO - Starting Transformation Phase...
+2026-02-15 20:01:56,325 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:01:56,325 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:01:56,337 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:02:46,776 - INFO - Starting Transformation Phase...
+2026-02-15 20:02:46,776 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:02:46,776 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:03:00,476 - INFO - Starting Transformation Phase...
+2026-02-15 20:03:00,476 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:03:00,476 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:03:29,822 - INFO - Starting Transformation Phase...
+2026-02-15 20:03:29,822 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:03:29,822 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:04:24,369 - INFO - Starting Transformation Phase...
+2026-02-15 20:04:24,369 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:04:24,369 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:04:42,974 - INFO - Starting Transformation Phase...
+2026-02-15 20:04:42,974 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:04:42,974 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:05:05,105 - INFO - Starting Transformation Phase...
+2026-02-15 20:05:05,105 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:05:05,120 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:05:27,503 - INFO - Starting Transformation Phase...
+2026-02-15 20:05:27,503 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:05:27,503 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:09:57,786 - INFO - Starting Transformation Phase...
+2026-02-15 20:09:57,786 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:09:57,786 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:10:12,378 - INFO - Starting Transformation Phase...
+2026-02-15 20:10:12,378 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:10:12,378 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:12:10,185 - INFO - Starting Transformation Phase...
+2026-02-15 20:12:10,185 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:12:10,185 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:28:26,857 - INFO - Starting Transformation Phase...
+2026-02-15 20:28:26,857 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:28:26,857 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:29:37,317 - INFO - Starting Transformation Phase...
+2026-02-15 20:29:37,317 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:29:37,319 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:35:07,661 - INFO - Starting Transformation Phase...
+2026-02-15 20:35:07,661 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:35:36,629 - INFO - Starting Transformation Phase...
+2026-02-15 20:35:36,629 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:36:08,962 - INFO - Starting Transformation Phase...
+2026-02-15 20:36:08,962 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:36:08,962 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:36:18,064 - INFO - Starting Transformation Phase...
+2026-02-15 20:36:18,064 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:36:18,064 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:36:43,161 - INFO - Starting Transformation Phase...
+2026-02-15 20:36:43,161 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:36:43,161 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:37:04,700 - INFO - Starting Transformation Phase...
+2026-02-15 20:37:04,700 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:37:04,700 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:37:14,345 - INFO - Starting Transformation Phase...
+2026-02-15 20:37:14,345 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:37:14,345 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:38:01,682 - INFO - Starting Transformation Phase...
+2026-02-15 20:38:01,682 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:38:01,682 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:38:29,619 - INFO - Starting Transformation Phase...
+2026-02-15 20:38:29,619 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:38:29,619 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:40:42,610 - INFO - Starting Transformation Phase...
+2026-02-15 20:40:42,610 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:40:42,610 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:42:25,541 - INFO - Starting Transformation Phase...
+2026-02-15 20:42:25,541 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:42:25,579 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:44:34,004 - INFO - Starting Transformation Phase...
+2026-02-15 20:44:34,004 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:44:34,004 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:45:09,455 - INFO - Starting Transformation Phase...
+2026-02-15 20:45:09,455 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:45:17,392 - INFO - Starting Transformation Phase...
+2026-02-15 20:45:17,392 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:46:42,172 - INFO - Starting Transformation Phase...
+2026-02-15 20:46:42,172 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:46:59,094 - INFO - Starting Transformation Phase...
+2026-02-15 20:46:59,094 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:47:39,188 - INFO - Starting Transformation Phase...
+2026-02-15 20:47:39,188 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:47:39,188 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:47:56,128 - INFO - Starting Transformation Phase...
+2026-02-15 20:47:56,128 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:47:56,137 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:48:16,476 - INFO - Starting Transformation Phase...
+2026-02-15 20:48:16,476 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:48:16,513 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:53:26,392 - INFO - Starting Transformation Phase...
+2026-02-15 20:53:26,392 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:53:26,410 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:53:26,418 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:57:24,983 - INFO - Starting Transformation Phase...
+2026-02-15 20:57:24,983 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:57:24,999 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:57:24,999 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 20:59:34,282 - INFO - Starting Transformation Phase...
+2026-02-15 20:59:34,283 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 20:59:34,379 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 20:59:34,381 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:01:15,181 - INFO - Starting Transformation Phase...
+2026-02-15 21:01:15,181 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:01:15,181 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:01:15,198 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:02:54,947 - INFO - Starting Transformation Phase...
+2026-02-15 21:02:54,947 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:02:54,963 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:02:54,963 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:04:05,388 - INFO - Starting Transformation Phase...
+2026-02-15 21:04:05,388 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:04:05,429 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:04:05,429 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:05:24,338 - INFO - Starting Transformation Phase...
+2026-02-15 21:05:24,339 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:05:24,343 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:05:24,346 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:06:09,246 - INFO - Starting Transformation Phase...
+2026-02-15 21:06:09,246 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:06:09,261 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:06:09,264 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:10:00,060 - INFO - Starting Transformation Phase...
+2026-02-15 21:10:00,060 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:10:00,060 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:10:00,067 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:21:12,332 - INFO - Starting Transformation Phase...
+2026-02-15 21:21:12,332 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:21:12,338 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:21:12,342 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:48:17,589 - INFO - Starting Transformation Phase...
+2026-02-15 21:48:17,589 - INFO - Processing file: ./Files for Miniproject-1/Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:48:17,589 - ERROR - File not found: ./Files for Miniproject-1/Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:48:17,589 - INFO - Processing file: ./Files for Miniproject-1/Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:48:17,589 - ERROR - File not found: ./Files for Miniproject-1/Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:48:17,589 - INFO - Processing file: ./Files for Miniproject-1/Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:48:17,589 - ERROR - File not found: ./Files for Miniproject-1/Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:50:14,482 - INFO - Starting Transformation Phase...
+2026-02-15 21:50:14,482 - INFO - Processing file: ./Files for Miniproject-1/Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:50:14,482 - ERROR - File not found: ./Files for Miniproject-1/Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:50:14,482 - INFO - Processing file: ./Files for Miniproject-1/Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:50:14,482 - ERROR - File not found: ./Files for Miniproject-1/Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:50:14,482 - INFO - Processing file: ./Files for Miniproject-1/Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:50:14,482 - ERROR - File not found: ./Files for Miniproject-1/Urban_Growth_Report_2023_extracted.txt
+2026-02-15 21:50:56,845 - INFO - Starting Transformation Phase...
+2026-02-15 21:50:56,845 - INFO - Processing file: Housing_Zoning_Update_Q1_2024_extracted.txt
+2026-02-15 21:50:56,856 - INFO - Processing file: Infrastructure_Transportation_Summary_2024_extracted.txt
+2026-02-15 21:50:56,863 - INFO - Processing file: Urban_Growth_Report_2023_extracted.txt

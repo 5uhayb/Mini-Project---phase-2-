@@ -3,7 +3,7 @@ import re
 import logging
 
 # Setup Logging
-logging.basicConfig(filename='Housing_Transformation.log', 
+logging.basicConfig(filename='./LOGS/Housing_Transformation.log', 
                     level=logging.INFO, 
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
