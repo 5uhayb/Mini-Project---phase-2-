@@ -3,7 +3,7 @@ import logging
 
 # Setup Logging
 logging.basicConfig(
-    filename="data_pipeline.log",
+    filename="./LOGS/data_pipeline.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
@@ -12,8 +12,8 @@ try:
     logging.info("Starting CSV extraction process.")
 
     # Extract
-    projects = pd.read_csv("City_Development_Projects.csv")
-    districts = pd.read_csv("Population_Economic_Indicators.csv")
+    projects = pd.read_csv("./Files for Miniproject-1/City_Development_Projects.csv")
+    districts = pd.read_csv("./Files for Miniproject-1/Population_Economic_Indicators.csv")
 
     logging.info("CSV files successfully loaded.")
 
@@ -77,7 +77,7 @@ try:
 
     logging.info("Merge completed successfully.")
 
-    combined.to_csv("combined_cleaned_data.csv", index=False)
+    combined.to_csv("./Result csv files/combined_cleaned_data.csv", index=False)
 
     logging.info("Pipeline completed and file saved.")
 

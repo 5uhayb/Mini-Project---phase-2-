@@ -1,0 +1,20 @@
+2026-02-13 16:03:58,716 - INFO - Starting CSV extraction process.
+2026-02-13 16:03:58,717 - ERROR - An error occurred: [Errno 2] No such file or directory: 'City_Develpment_Projects.csv'
+2026-02-13 16:04:20,204 - INFO - Starting CSV extraction process.
+2026-02-13 16:04:20,209 - INFO - CSV files successfully loaded.
+2026-02-13 16:04:20,209 - INFO - Projects data cleaned.
+2026-02-13 16:04:20,209 - INFO - District data cleaned.
+2026-02-13 16:04:20,209 - INFO - Merge completed successfully.
+2026-02-13 16:04:20,225 - INFO - Pipeline completed and file saved.
+2026-02-15 21:51:22,795 - INFO - Starting CSV extraction process.
+2026-02-15 21:51:22,895 - INFO - CSV files successfully loaded.
+2026-02-15 21:51:22,903 - INFO - Projects data cleaned.
+2026-02-15 21:51:22,912 - INFO - District data cleaned.
+2026-02-15 21:51:22,919 - INFO - Merge completed successfully.
+2026-02-15 21:51:22,928 - INFO - Pipeline completed and file saved.
+2026-02-15 21:52:18,701 - INFO - Starting CSV extraction process.
+2026-02-15 21:52:18,709 - INFO - CSV files successfully loaded.
+2026-02-15 21:52:18,714 - INFO - Projects data cleaned.
+2026-02-15 21:52:18,716 - INFO - District data cleaned.
+2026-02-15 21:52:18,718 - INFO - Merge completed successfully.
+2026-02-15 21:52:18,723 - INFO - Pipeline completed and file saved.

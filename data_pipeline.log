@@ -1,8 +1,0 @@
-2026-02-13 16:03:58,716 - INFO - Starting CSV extraction process.
-2026-02-13 16:03:58,717 - ERROR - An error occurred: [Errno 2] No such file or directory: 'City_Develpment_Projects.csv'
-2026-02-13 16:04:20,204 - INFO - Starting CSV extraction process.
-2026-02-13 16:04:20,209 - INFO - CSV files successfully loaded.
-2026-02-13 16:04:20,209 - INFO - Projects data cleaned.
-2026-02-13 16:04:20,209 - INFO - District data cleaned.
-2026-02-13 16:04:20,209 - INFO - Merge completed successfully.
-2026-02-13 16:04:20,225 - INFO - Pipeline completed and file saved.
