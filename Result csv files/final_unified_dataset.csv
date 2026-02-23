@@ -1,0 +1,15 @@
+Project_ID,District_ID,Project_Name,Project_Start_Date,Project_Status,Estimated_Units,District_Name_x,Population,Median_Income,Employment_Rate,AQI,AQI_category,Temperature_C,Humidity(%),Precip_mm,Wind_speed(km/h),Zoning_Type,Units_Q1_2024,Units_Q1_2023,YoY_Change_%_x,Road_2024_km,Road_2023_km,YoY_%,District_Name_y,Units_2023,Units_2022,YoY_Change_%_y,Green_Space_2023_sq_m
+P1001,D01,Riverfront Residences,2023-11-01,ongoing,120.0,Downtown,45000,72000.0,0.78,45,Good,12.3,68,2.0,15.2,Mixed-Use,60.0,52,15.4,4.0,3.8,5.3,Downtown,120.0,95,26.3,3500.5
+P1002,D02,Riverside Commons,2023-12-01,completed,45.0,Riverside,18500,65000.0,0.73,55,Moderate,11.8,72,0.0,12.8,ResfiMixed-Use,20.0,15,33.3,3.5,3.2,9.4,Riverside,45.0,52,-13.5,4200.0
+P1003,D03,Northgate Lofts,2024-02-15,ongoing,,Northgate,22000,,0.69,65,Moderate,10.5,81,5.2,18.5,Residential,,25,,2.0,2.5,-20.0,Northgate,,38,,2100.25
+P1004,D04,Southridge Mall Redevelopment,,planning,78.0,Southridge,15000,59000.5,,35,Good,13.0,65,0.0,10.3,ComfiResidential,30.0,18,66.7,1.0,1.8,-44.4,Southridge,78.0,48,62.5,
+P1005,D05,Westfield EcoHomes,2024-03-01,ongoing,32.0,Westfield,12500,81000.0,0.82,80,Moderate,9.7,75,1.1,22.1,Residential,10.0,30,-66.7,1.0,0.9,11.1,Westfield,32.0,28,14.3,800.0
+P1006,D06,Oldtown Heritage Restoration,2024-03-05,ongoing,5.0,Oldtown,8200,47000.0,0.65,50,Good,12.0,70,0.2,,Heritage,5.0,12,-58.3,,0.9,,Oldtown,15.0,28,-46.4,950.2
+P1007,D01,Downtown Transit Hub,,planning,150.0,Downtown,45000,72000.0,0.78,45,Good,12.3,68,2.0,15.2,Mixed-Use,60.0,52,15.4,4.0,3.8,5.3,Downtown,120.0,95,26.3,3500.5
+P1008,D02,Riverside Park Extension,2024-05-12,completed,0.0,Riverside,18500,65000.0,0.73,55,Moderate,11.8,72,0.0,12.8,ResfiMixed-Use,20.0,15,33.3,3.5,3.2,9.4,Riverside,45.0,52,-13.5,4200.0
+P1009,D03,Northgate Community Center,,on hold,,Northgate,22000,,0.69,65,Moderate,10.5,81,5.2,18.5,Residential,,25,,2.0,2.5,-20.0,Northgate,,38,,2100.25
+P1010,D04,Southridge Green Corridor,2024-07-20,ongoing,22.0,Southridge,15000,59000.5,,35,Good,13.0,65,0.0,10.3,ComfiResidential,30.0,18,66.7,1.0,1.8,-44.4,Southridge,78.0,48,62.5,
+P1011,D05,Westfield Mixed-Use Complex,2024-08-15,planning,85.0,Westfield,12500,81000.0,0.82,80,Moderate,9.7,75,1.1,22.1,Residential,10.0,30,-66.7,1.0,0.9,11.1,Westfield,32.0,28,14.3,800.0
+P1012,D06,Oldtown Library Renovation,2024-09-01,completed,,Oldtown,8200,47000.0,0.65,50,Good,12.0,70,0.2,,Heritage,5.0,12,-58.3,,0.9,,Oldtown,15.0,28,-46.4,950.2
+P1013,D01,Downtown Arts District,,ongoing,95.0,Downtown,45000,72000.0,0.78,45,Good,12.3,68,2.0,15.2,Mixed-Use,60.0,52,15.4,4.0,3.8,5.3,Downtown,120.0,95,26.3,3500.5
+P1014,D03,Northgate Medical Facility,2024-10-05,planning,,Northgate,22000,,0.69,65,Moderate,10.5,81,5.2,18.5,Residential,,25,,2.0,2.5,-20.0,Northgate,,38,,2100.25
